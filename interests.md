@@ -5,114 +5,74 @@ and `## sections` headings below. Edit freely. No code changes needed.
 
 ## narrative
 
-I am a psychological scientist studying suicidality, with a primary focus on pediatric
-and adolescent populations. My work centers on intensive longitudinal data (ILD), meaning
-ecological momentary assessment (EMA), digital phenotyping, passive sensing, wearables and
-biosensors. It also centers on the statistical and computational frameworks needed to
-model short-timescale risk processes from those data.
+I am a pediatric neuropsychologist studying neurodevelopmental and cognitive outcomes in critically ill children, with a primary focus on pediatric post-intensive care syndrome (PICS-p) and PICU survivorship. My work centers on the long-term neurocognitive, emotional, and physical morbidities that follow critical illness, as well as the cascading impact on family functioning. 
 
-Methodologically I care most about machine learning and dynamical systems modeling. That
-covers two things. First, substantive applications to suicide risk assessment, prediction,
-and intervention. Second, technical developments in those method families in their own
-right, even when the application domain is not suicide. Examples of the second: time
-series modeling, idiographic and person-specific modeling, early warning signal detection,
-state-space and nonlinear dynamics methods, just-in-time adaptive interventions (JITAI)
-and micro-randomized trial design, and the calibration, validation, and generalizability
-of clinical prediction models.
+Methodologically, I care most about longitudinal cohort designs, comprehensive neuropsychological assessment, and identifying acute-phase risk factors. That covers two things. First, substantive applications to understanding trajectories of recovery, identifying modifiable risks for cognitive impairment (like neurotoxic sedation, delirium, hypoxia, or sepsis), and developing targeted rehabilitation interventions. Second, the technical validation and adaptation of neurocognitive test batteries, functional outcome measures, and quality-of-life assessments for medically complex pediatric populations.
 
-I care about methodological rigor. External validation, replication, calibration, handling
-of class imbalance and rare events, measurement reliability, and honest reporting of
-predictive performance. I would rather see a well-validated null than an overfit headline.
+I care about methodological rigor. Standardized follow-up protocols, controlling for baseline or pre-morbid functioning, multi-center collaborations, reliable measurement of delirium in the acute phase, and honest reporting of attrition in longitudinal studies. I would rather see a well-powered, multi-site cohort study than an underpowered, single-center chart review.
 
 ## keywords
 
-suicide
-suicidal ideation
-suicidal behavior
-suicide attempt
-self-harm
-non-suicidal self-injury
-NSSI
-self-injurious
-crisis
-safety planning
-suicide prevention
-adolescent
-adolescence
-youth
-pediatric
-child
-teen
-ecological momentary assessment
-EMA
-experience sampling
-intensive longitudinal
-digital phenotyping
-passive sensing
-wearable
-biosensor
-actigraphy
-smartphone sensing
-real-time monitoring
-just-in-time adaptive intervention
-JITAI
-micro-randomized
-machine learning
-deep learning
-predictive model
-risk prediction
-prediction model
-classifier
-natural language processing
-large language model
-dynamical systems
-nonlinear dynamics
-early warning signal
-critical slowing
-state space
-time series
-idiographic
-person-specific
-network analysis
-multilevel model
-DSEM
-latent state
-calibration
-external validation
-generalizability
-class imbalance
-measurement burst
+pediatric intensive care unit
+PICU
+post-intensive care syndrome
+PICS
+PICS-p
+critical illness
+survivorship
+neuropsychology
+neuropsychological assessment
+cognitive outcome
+neurocognitive
+cognition
+executive function
+memory
+attention
+delirium
+sedation
+analgesia
+neurotoxicity
+hypoxia
+sepsis
+acute respiratory distress syndrome
+ARDS
+PARDS
+traumatic brain injury
+TBI
+extracorporeal membrane oxygenation
+ECMO
+cardiopulmonary bypass
+rehabilitation
+quality of life
+HRQoL
+functional status
+family functioning
+parental stress
+PTSD
 mental health
-psychiatry
 depression
-mood
+anxiety
+longitudinal
+cohort study
+neuroimaging
+MRI
+EEG
+biomarker
+acquired brain injury
+morbidity
 
 ## sections
 
 Each item is assigned to exactly one section. IDs must match `digest.py`.
 
-- **suicide**, Suicide & self-harm.
-  Suicidal ideation, behavior, attempts, self-injury, crisis services, means safety,
-  prevention and intervention trials, epidemiology and risk factors. Boost heavily for
-  pediatric and adolescent samples, and for ILD or ML components.
+- **pics_outcomes**, PICS-p & Survivorship.
+  Long-term physical, cognitive, and emotional outcomes following pediatric critical illness. Studies on quality of life, functional status, psychiatric outcomes (e.g., PTSD, anxiety in both patients and parents), and rehabilitation trials. Boost heavily for longitudinal designs, PICS framework papers, and multi-center PICU cohorts.
 
-- **sensing**, Intensive longitudinal & sensing.
-  EMA and ESM, digital phenotyping, passive smartphone or wearable sensing, biosensors,
-  actigraphy, measurement-burst designs, JITAI and micro-randomized trials, real-time risk
-  monitoring. Any clinical population, mental health preferred.
+- **neuropsych**, Neurocognition & Assessment.
+  Neuropsychological functioning, cognitive trajectories, and brain-behavior relationships in pediatric survivors of critical illness. Executive function, attention, memory, and the validation of assessment tools/batteries in medically complex youth. Include neuroimaging (MRI) and neurophysiological (EEG) studies linking critical illness to disrupted brain maturation.
 
-- **methods**, ML & dynamical systems methods.
-  Technical advances in machine learning, prediction modeling, dynamical systems,
-  nonlinear time series, idiographic and person-specific modeling, early warning signals,
-  network psychometrics, causal inference for longitudinal data, model calibration,
-  validation and generalization. Include strong methods papers even when the application
-  sits outside psychiatry, if the method plausibly transfers to ILD or risk prediction.
+- **icu_exposures**, Acute ICU Factors & Brain Injury.
+  Acute critical care factors and interventions that impact neurodevelopmental outcomes. Pediatric delirium, sedation protocols, neurotoxicity, severe sepsis, ECMO, cardiopulmonary bypass, and severe TBI. Focus on how acute phase management and neurological insults in the PICU translate to long-term morbidity.
 
-- **adjacent**, Adjacent mental health, genetics & neurobiology.
-  Two kinds of thing land here. First, good psychiatry, clinical psychology, or child and
-  adolescent mental health work that does not fit the sections above. Second, psychiatric
-  genetics and neurobiology: GWAS and polygenic scores for psychiatric or suicide-related
-  phenotypes, gene-environment interaction, epigenetics, neuroimaging of adolescent
-  development, biomarkers, and mechanistic work on stress, reward, or impulsivity systems
-  relevant to self-harm risk. Prefer human studies and large or consortium samples. Keep
-  this section selective.
+- **adjacent**, Adjacent pediatrics, development & methodology.
+  Two kinds of things land here. First, good developmental neuropsychology, general child psychology, or pediatric neurology work that does not perfectly fit the sections above. Second, relevant methodological advances in longitudinal data analysis, psychometrics, handling missing data/attrition in cohort studies, or broader models of family resilience. Keep this section selective.
