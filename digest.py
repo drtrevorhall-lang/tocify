@@ -613,20 +613,44 @@ def extract_json(text):
         return json.loads(text)
     except json.JSONDecodeError:
         pass
-    depth, start = 0, None
-    for i, ch in enumerate(text):
-        if ch == "{":
-            if depth == 0:
-                start = i
-            depth += 1
-        elif ch == "}":
-            depth -= 1
-            if depth == 0 and start is not None:
-                try:
-                    return json.loads(text[start:i + 1])
-                except json.JSONDecodeError:
-                    start = None
+    for opener, closer in (("{", "}"), ("[", "]")):
+        depth, start = 0, None
+        for i, ch in enumerate(text):
+            if ch == opener:
+                if depth == 0:
+                    start = i
+                depth += 1
+            elif ch == closer:
+                depth -= 1
+                if depth == 0 and start is not None:
+                    try:
+                        return json.loads(text[start:i + 1])
+                    except json.JSONDecodeError:
+                        start = None
     raise ValueError("no parseable JSON in model output")
+
+
+def normalize_result(obj):
+    """Coerce whatever the model returned into {"ranked": [...]}.
+
+    In plain-JSON mode (no strict schema) models frequently return a bare array, or
+    wrap the array under a key of their own choosing. Without this, triage() calls
+    .get() on a list and the whole run dies with an AttributeError.
+    """
+    if isinstance(obj, list):
+        return {"ranked": obj}
+    if isinstance(obj, dict):
+        if isinstance(obj.get("ranked"), list):
+            return {"ranked": obj["ranked"]}
+        for k in ("items", "results", "data", "articles", "output", "papers"):
+            if isinstance(obj.get(k), list):
+                return {"ranked": obj[k]}
+        if {"id", "section", "score"} <= set(obj):
+            return {"ranked": [obj]}          # single item returned bare
+        lists = [v for v in obj.values() if isinstance(v, list)]
+        if len(lists) == 1:
+            return {"ranked": lists[0]}
+    raise ValueError(f"unexpected JSON shape from model: {type(obj).__name__}")
 
 
 def call_model(client, model, prompt, use_schema=True):
@@ -654,7 +678,7 @@ def call_model(client, model, prompt, use_schema=True):
     content = resp.choices[0].message.content
     if not content or not content.strip():
         raise ModelUnavailable(f"{model}: returned empty content")
-    return extract_json(content)
+    return normalize_result(extract_json(content))
 
 
 # Remembers the first model that actually worked. Without this, every batch re-tries
@@ -711,7 +735,7 @@ def triage(client, interests, items, template):
                   .replace("{{ITEMS}}", json.dumps(lean, ensure_ascii=False)))
         try:
             res = triage_batch(client, prompt)
-        except RuntimeError as e:
+        except Exception as e:
             # A partial digest beats no digest. Skip this batch and keep going.
             failed += 1
             print(f"    ! batch {n} failed, skipping: {e}")
