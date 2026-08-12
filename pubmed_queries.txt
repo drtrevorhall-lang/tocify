@@ -12,35 +12,16 @@
 # [Journal] = journal name. Truncation with * works in [tiab] but NOT inside quotes
 # unless the phrase is short. Test queries at https://pubmed.ncbi.nlm.nih.gov first.
 
-Suicide + youth | (suicide[MeSH Terms] OR suicid*[tiab] OR "self-harm"[tiab] OR "self harm"[tiab] OR "self-injury"[tiab] OR "self-injurious"[tiab] OR NSSI[tiab]) AND (adolescen*[tiab] OR youth[tiab] OR pediatric[tiab] OR paediatric[tiab] OR child*[tiab] OR teen*[tiab])
-
-Suicide + intensive longitudinal | (suicid*[tiab] OR "self-harm"[tiab] OR "self-injury"[tiab] OR NSSI[tiab]) AND ("ecological momentary"[tiab] OR "experience sampling"[tiab] OR "digital phenotyping"[tiab] OR "passive sensing"[tiab] OR wearable*[tiab] OR actigraph*[tiab] OR "intensive longitudinal"[tiab] OR "real-time monitoring"[tiab] OR smartphone[tiab] OR biosensor*[tiab])
-
-Suicide + machine learning | (suicid*[tiab] OR "self-harm"[tiab] OR "self-injury"[tiab] OR NSSI[tiab]) AND ("machine learning"[tiab] OR "deep learning"[tiab] OR "artificial intelligence"[tiab] OR "predictive model"[tiab] OR "prediction model"[tiab] OR "risk prediction"[tiab] OR "natural language processing"[tiab] OR "large language model"[tiab] OR algorithm*[tiab])
-
-EMA + mental health | ("ecological momentary assessment"[tiab] OR "experience sampling"[tiab] OR "digital phenotyping"[tiab] OR "passive sensing"[tiab] OR "intensive longitudinal"[tiab] OR "measurement burst"[tiab]) AND (depress*[tiab] OR anxiet*[tiab] OR psychiatr*[tiab] OR "mental health"[tiab] OR psychopatholog*[tiab])
-
-Dynamical systems + psychopathology | ("dynamical system"[tiab] OR "dynamical systems"[tiab] OR "early warning signal"[tiab] OR "early warning signals"[tiab] OR "critical slowing"[tiab] OR "nonlinear dynamics"[tiab] OR "state space model"[tiab] OR idiographic[tiab] OR "person-specific"[tiab] OR "network analysis"[tiab]) AND (psychopatholog*[tiab] OR psychiatr*[tiab] OR "mental health"[tiab] OR depress*[tiab] OR mood[tiab] OR suicid*[tiab])
-
-JITAI + adaptive trials | ("just-in-time adaptive intervention"[tiab] OR "just in time adaptive"[tiab] OR JITAI[tiab] OR "micro-randomized"[tiab] OR microrandomized[tiab] OR "sequential multiple assignment randomized"[tiab])
-
-Computational Psychiatry journal | "Comput Psychiatr"[Journal]
-
-# --- Journal coverage for publishers that block GitHub runners (403) ---
-# These replace RSS feeds that cannot be fetched. Journal names use NLM title
-# abbreviations. Verify one at https://pubmed.ncbi.nlm.nih.gov before adding more.
-
-# Small, entirely on-topic journals: take everything they publish.
-Core suicide journals | "Suicide Life Threat Behav"[Journal] OR "Arch Suicide Res"[Journal] OR "Crisis"[Journal] OR "Death Stud"[Journal]
-
-# Quantitative methods journals: small enough to take whole, and method papers often
-# never mention a clinical population, so topic filters would miss them.
-Quant methods journals | "Behav Res Methods"[Journal] OR "Psychometrika"[Journal] OR "Multivariate Behav Res"[Journal] OR "Psychol Methods"[Journal] OR "Struct Equ Modeling"[Journal]
-
-# Safety net for the nature.com feeds that rate-limiting sometimes drops. These journals
-# also have working RSS feeds; dedupe keeps the RSS copy when both fire, because it
-# carries the abstract. Costs nothing when the feeds succeed.
-Nature family safety net | ("Nat Mach Intell"[Journal] OR "NPJ Ment Health Res"[Journal] OR "Nat Ment Health"[Journal] OR "Nat Comput Sci"[Journal] OR "Nat Rev Psychol"[Journal] OR "Mol Psychiatry"[Journal] OR "Transl Psychiatry"[Journal] OR "Neuropsychopharmacology"[Journal]) AND (suicid*[tiab] OR "mental health"[tiab] OR psychiatr*[tiab] OR adolescen*[tiab] OR "machine learning"[tiab] OR "time series"[tiab] OR longitudinal[tiab] OR predict*[tiab])
-
-# Large general psychiatry journals: filtered, or they would swamp the digest.
-Blocked psychiatry journals | ("J Child Psychol Psychiatry"[Journal] OR "World Psychiatry"[Journal] OR "Am J Psychiatry"[Journal] OR "Psychiatr Serv"[Journal] OR "J Am Med Inform Assoc"[Journal]) AND (suicid*[tiab] OR "self-harm"[tiab] OR "self-injury"[tiab] OR adolescen*[tiab] OR youth[tiab] OR "machine learning"[tiab] OR "ecological momentary"[tiab] OR "digital phenotyping"[tiab] OR wearable*[tiab] OR predict*[tiab] OR longitudinal[tiab])
+Neuropsychology journals | "J Int Neuropsychol Soc"[Journal] OR "Arch Clin Neuropsychol"[Journal] OR "Clin Neuropsychol"[Journal] OR "Child Neuropsychol"[Journal] OR "Dev Neuropsychol"[Journal] OR "Neuropsychology"[Journal] OR "Appl Neuropsychol Child"[Journal] OR "J Clin Exp Neuropsychol"[Journal]
+ 
+Neurotrauma journals | "J Neurotrauma"[Journal] OR "Neurotrauma Rep"[Journal] OR "J Head Trauma Rehabil"[Journal] OR "Brain Inj"[Journal]
+ 
+Pediatric critical & hospital care | "Pediatr Crit Care Med"[Journal] OR "Hosp Pediatr"[Journal] OR "Neurocrit Care"[Journal] OR "J Intensive Care Med"[Journal] OR "Pediatr Neurol"[Journal] OR "Dev Med Child Neurol"[Journal] OR "J Pediatr Psychol"[Journal]
+ 
+Large general journals, filtered | ("Neurology"[Journal] OR "Pediatrics"[Journal] OR "JAMA Pediatr"[Journal] OR "JAMA Neurol"[Journal] OR "Ann Neurol"[Journal] OR "Brain"[Journal]) AND (pediatric[tiab] OR paediatric[tiab] OR child*[tiab] OR adolescen*[tiab] OR neuropsycholog*[tiab] OR cognit*[tiab] OR concussion[tiab] OR "brain injury"[tiab])
+ 
+Pediatric TBI and concussion | (pediatric[tiab] OR paediatric[tiab] OR child*[tiab] OR adolescen*[tiab] OR youth[tiab]) AND ("traumatic brain injury"[tiab] OR concussion[tiab] OR "head injury"[tiab] OR "mild TBI"[tiab] OR mTBI[tiab] OR neurotrauma[tiab]) AND (outcome*[tiab] OR cognit*[tiab] OR neuropsycholog*[tiab] OR recovery[tiab] OR rehabilitat*[tiab])
+ 
+Pediatric neurocritical care | (pediatric[tiab] OR paediatric[tiab] OR child*[tiab]) AND ("intensive care"[tiab] OR "critical care"[tiab] OR PICU[tiab] OR "critical illness"[tiab]) AND (neurolog*[tiab] OR neurocogniti*[tiab] OR neuropsycholog*[tiab] OR "brain injury"[tiab] OR outcome*[tiab] OR delirium[tiab])
+ 
+Neuropsychological assessment methods | ("neuropsychological assessment"[tiab] OR "neuropsychological test*"[tiab] OR "normative data"[tiab] OR "test validity"[tiab] OR "performance validity"[tiab] OR "symptom validity"[tiab] OR "cognitive screening"[tiab] OR "test-retest reliability"[tiab] OR "reliable change"[tiab]) AND (child*[tiab] OR adolescen*[tiab] OR pediatric[tiab] OR paediatric[tiab])
