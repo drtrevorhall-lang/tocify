@@ -76,3 +76,12 @@ Each item is assigned to exactly one section. IDs must match `digest.py`.
 
 - **adjacent**, Adjacent pediatrics, development & methodology.
   Two kinds of things land here. First, good developmental neuropsychology, general child psychology, or pediatric neurology work that does not perfectly fit the sections above. Second, relevant methodological advances in longitudinal data analysis, psychometrics, handling missing data/attrition in cohort studies, or broader models of family resilience. Keep this section selective.
+
+## about
+ 
+New papers on pediatric neurotrauma, neurocritical care outcomes, and
+
+neuropsychological assessment, scanned automatically each Monday and ranked
+
+against the [interests](interests.html) below.
+ 
