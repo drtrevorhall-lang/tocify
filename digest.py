@@ -86,14 +86,14 @@ CONTACT_EMAIL        = _env_str("CONTACT_EMAIL")  # polite E-utilities identifie
 
 # Per-section thresholds and caps. Tune without touching code.
 SECTIONS = [
-    {"id": "suicide",  "title": "Suicide & self-harm",
-     "min": _env_float("MIN_SCORE_SUICIDE", 0.55), "max": _env_int("MAX_SUICIDE", 20)},
-    {"id": "sensing",  "title": "Intensive longitudinal & sensing",
-     "min": _env_float("MIN_SCORE_SENSING", 0.60), "max": _env_int("MAX_SENSING", 15)},
-    {"id": "methods",  "title": "ML & dynamical systems methods",
-     "min": _env_float("MIN_SCORE_METHODS", 0.65), "max": _env_int("MAX_METHODS", 15)},
-    {"id": "adjacent", "title": "Adjacent mental health, genetics & neurobiology",
-     "min": _env_float("MIN_SCORE_ADJACENT", 0.62), "max": _env_int("MAX_ADJACENT", 8)},
+    {"id": "neurotrauma", "title": "Pediatric neurotrauma & concussion",
+     "min": _env_float("MIN_SCORE_NEUROTRAUMA", 0.55), "max": _env_int("MAX_NEUROTRAUMA", 20)},
+    {"id": "critcare",    "title": "Neurocritical & hospital care outcomes",
+     "min": _env_float("MIN_SCORE_CRITCARE", 0.58), "max": _env_int("MAX_CRITCARE", 15)},
+    {"id": "assessment",  "title": "Neuropsychological assessment & methods",
+     "min": _env_float("MIN_SCORE_ASSESSMENT", 0.58), "max": _env_int("MAX_ASSESSMENT", 15)},
+    {"id": "adjacent",    "title": "Adjacent developmental neuroscience",
+     "min": _env_float("MIN_SCORE_ADJACENT", 0.65), "max": _env_int("MAX_ADJACENT", 10)},
 ]
 SECTION_IDS = [s["id"] for s in SECTIONS]
 UA = "tocify/2.0 (+https://github.com/SamSievertsen/tocify)"
@@ -490,26 +490,32 @@ def keyword_hits(it, kws):
 # Terms that mark an item as a candidate for each section. Used to give every section a
 # guaranteed share of the prefilter, and to fake scores in --dry-run.
 SECTION_KEYWORDS = {
-    "suicide": ["suicid", "self-harm", "self harm", "self-injur", "nssi", "crisis",
-                "overdose", "means safety"],
-    "sensing": ["ecological momentary", "ema ", "experience sampling", "digital phenotyp",
-                "passive sensing", "wearable", "actigraph", "smartphone", "sensor",
-                "just-in-time", "micro-randomiz", "intensive longitudinal",
-                "real-time", "measurement burst"],
-    "methods": ["machine learning", "deep learning", "dynamical", "time series",
-                "prediction model", "predictive model", "network analysis", "idiographic",
-                "person-specific", "state space", "early warning", "calibration",
-                "external validation", "neural network", "algorithm", "bayesian"],
-    "adjacent": ["gwas", "polygenic", "genome-wide", "epigenet", "methylation",
-                 "neuroimaging", "mri", "biomarker", "heritab", "gene-environment",
-                 "cortical", "amygdala", "hpa axis"],
+    "neurotrauma": ["traumatic brain injury", " tbi", "mtbi", "concussion",
+                    "post-concussi", "head injury", "head trauma", "neurotrauma",
+                    "abusive head", "return to play", "return to learn",
+                    "skull fracture", "contusion", "intracranial"],
+    "critcare":    ["intensive care", "critical care", "picu", "critically ill",
+                    "cardiac arrest", "ecmo", "sepsis", "delirium", "encephalopath",
+                    "hypoxic", "ischemic", "stroke", "encephalitis", "meningitis",
+                    "length of stay", "hospitali", "mechanical ventilation",
+                    "functional outcome", "neurodevelopmental outcome"],
+    "assessment":  ["neuropsycholog", "normative", "psychometric", "validity",
+                    "reliability", "test-retest", "reliable change", "practice effect",
+                    "performance validity", "symptom validity", "measurement invariance",
+                    "factor structure", "factor analysis", "standardization",
+                    "cognitive screening", "executive function", "processing speed",
+                    "working memory", "intelligence test", "teleneuropsych"],
+    "adjacent":    ["development", "neuroimaging", "mri", "diffusion", "white matter",
+                    "cortical", "connectom", "epilepsy", "seizure", "cerebral palsy",
+                    "preterm", "prematur", "congenital", "genetic", "biomarker",
+                    "plasticity", "recovery"],
 }
 
 # Share of the prefilter budget reserved for each section. Without this the budget goes
 # almost entirely to `suicide`, because the keyword list is suicide-heavy, and the other
 # three sections come back empty. Weights need not sum to 1; leftovers go to the general
 # pool ranked purely by keyword hits.
-SECTION_QUOTA = {"suicide": 0.40, "sensing": 0.15, "methods": 0.20, "adjacent": 0.10}
+SECTION_QUOTA = {"neurotrauma": 0.35, "critcare": 0.20, "assessment": 0.20, "adjacent": 0.10}
 
 
 def prefilter(items, keywords, keep_top):
