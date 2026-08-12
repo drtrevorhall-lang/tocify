@@ -11,8 +11,8 @@ project:
     - interests.qmd
 
 website:
-  title: "tocify"
-  description: "Weekly journal ToC digest. Suicidality, intensive longitudinal data, computational methods"
+  title: "Pediatric Neuropsychology Digest"
+  description: "Weekly journal scan. Pediatric neurotrauma, neurocritical care outcomes, and neuropsychological assessment"
   navbar:
     left:
       - href: index.qmd
