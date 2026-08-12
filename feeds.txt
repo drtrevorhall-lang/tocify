@@ -18,77 +18,28 @@
 #
 # Re-run Actions -> Validate feeds after editing.
 
-# === DIGITAL HEALTH / SENSING ===
-JMIR | https://www.jmir.org/feed/atom
-JMIR Mental Health | https://mental.jmir.org/feed/atom
-JMIR mHealth uHealth | https://mhealth.jmir.org/feed/atom
-JMIR Formative Res | https://formative.jmir.org/feed/atom
-JMIR Public Health Surveill | https://publichealth.jmir.org/feed/atom
-npj Digital Medicine | https://www.nature.com/npjdigitalmed.rss
-Lancet Digital Health | https://rss.sciencedirect.com/publication/science/25897500
-
-# === PSYCHIATRY / MENTAL HEALTH ===
-Translational Psychiatry | https://www.nature.com/tp.rss
-Nature Mental Health | https://www.nature.com/natmentalhealth.rss
-npj Mental Health Research | https://www.nature.com/npjmentalhealth.rss
-Molecular Psychiatry | https://www.nature.com/mp.rss
-Neuropsychopharmacology | https://www.nature.com/npp.rss
-Nature Human Behaviour | https://www.nature.com/nathumbehav.rss
-JAMA Psychiatry | https://jamanetwork.com/rss/site_14/70.xml
-JAMA Network Open | https://jamanetwork.com/rss/site_214/187.xml
+# === PEDIATRIC NEUROLOGY / GENERAL PEDIATRICS (Elsevier via ScienceDirect) ===
+Pediatric Neurology | https://rss.sciencedirect.com/publication/science/08878994
+J Pediatrics | https://rss.sciencedirect.com/publication/science/00223476
+Eur J Paediatric Neurology | https://rss.sciencedirect.com/publication/science/10903798
+Arch Phys Med Rehabil | https://rss.sciencedirect.com/publication/science/00039993
+Seizure | https://rss.sciencedirect.com/publication/science/10591311
+Clinical Neurophysiology | https://rss.sciencedirect.com/publication/science/13882457
+Developmental Cognitive Neuroscience | https://rss.sciencedirect.com/publication/science/18789293
+Neuroscience & Biobehavioral Rev | https://rss.sciencedirect.com/publication/science/01497634
+ 
+# === JAMA FAMILY ===
 JAMA Pediatrics | https://jamanetwork.com/rss/site_19/75.xml
-Lancet Psychiatry | https://rss.sciencedirect.com/publication/science/22150366
-
-# === CHILD & ADOLESCENT ===
-JAACAP | https://rss.sciencedirect.com/publication/science/08908567
-J Adolescent Health | https://rss.sciencedirect.com/publication/science/1054139X
-Lancet Child Adolesc Health | https://rss.sciencedirect.com/publication/science/23524642
-
-# === CLINICAL PSYCHOLOGY / AFFECTIVE ===
-J Affective Disorders | https://rss.sciencedirect.com/publication/science/01650327
-Behaviour Research and Therapy | https://rss.sciencedirect.com/publication/science/00057967
-Psychiatry Research | https://rss.sciencedirect.com/publication/science/01651781
-Clinical Psychological Science | https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=cpxa&type=etoc&feed=rss
-Adv Methods Pract Psych Sci | https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=ampa&type=etoc&feed=rss
-Biol Psychiatry CNNI | https://rss.sciencedirect.com/publication/science/24519022
-Biol Psychiatry GOS | https://rss.sciencedirect.com/publication/science/26671743
-
-# === ML / COMPUTATIONAL ===
-Nature Machine Intelligence | https://www.nature.com/natmachintell.rss
-Nature Computational Science | https://www.nature.com/natcomputsci.rss
-Nature Reviews Psychology | https://www.nature.com/nrpsychol.rss
-Patterns | https://rss.sciencedirect.com/publication/science/26663899
-Trends Cogn Sci | https://rss.sciencedirect.com/publication/science/13646613
-
-# === GENERAL / HIGH IMPACT ===
-Nature | https://www.nature.com/nature.rss
-Science | https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
-Science Advances | https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv
-PNAS Psych Cogn Sci | http://www.pnas.org/rss/Psychological_and_Cognitive_Sciences.xml
-Scientific Reports | https://www.nature.com/srep.rss
-
+JAMA Neurology | https://jamanetwork.com/rss/site_16/72.xml
+JAMA Network Open | https://jamanetwork.com/rss/site_214/187.xml
+ 
 # === PREPRINTS ===
-medRxiv Psychiatry | http://connect.medrxiv.org/medrxiv_xml.php?subject=psychiatry_and_clinical_psychology
-medRxiv Health Informatics | http://connect.medrxiv.org/medrxiv_xml.php?subject=health_informatics
 medRxiv Pediatrics | http://connect.medrxiv.org/medrxiv_xml.php?subject=pediatrics
-arXiv stat.ME | http://export.arxiv.org/rss/stat.ME
-arXiv cs.LG | http://export.arxiv.org/rss/cs.LG
-
-# === REMOVED, AND WHY ===
-# Blocked by publisher (403 from GitHub runners). Now covered by pubmed_queries.txt:
-#   Suicide Life Threat Behav, Archives of Suicide Research  (Wiley, Taylor & Francis)
-#   JCPP, World Psychiatry                                   (Wiley)
-#   Am J Psychiatry, Psychiatric Services                    (psychiatryonline.org)
-#   Multivariate Behav Res                                   (Taylor & Francis)
-# Blocked by Springer (HTML challenge page on every attempt, both validation runs).
-# Already covered by the "Quant methods journals" PubMed query:
-#   Behavior Research Methods, Psychometrika          (link.springer.com search.rss)
-# Dead URLs:
-#   Crisis        econtent.hogrefe.com jc=crisis -> 404. Covered by PubMed instead.
-#   J Am Med Inform Assoc  academic.oup.com site_5344 -> 404. OUP rotates site IDs.
-#   Biol Psychiatry CNNI   bpscnni.org does not resolve. Replaced with ScienceDirect.
-# Wrong journal entirely (inherited from the original feed list):
-#   Trends Neurosci (was jc=stm, Science Translational Medicine)
-#   Lancet Neurol / Lancet Digital Health (URLs were swapped)
-#   J Cogn Neurosci (pointed at an IEEE Xplore feed)
-#   NeuroImage, Cerebral Cortex, JAD Reports (retired or not feeds)
+medRxiv Neurology | http://connect.medrxiv.org/medrxiv_xml.php?subject=neurology
+medRxiv Rehab | http://connect.medrxiv.org/medrxiv_xml.php?subject=rehabilitation_medicine_and_physical_therapy
+medRxiv Emergency | http://connect.medrxiv.org/medrxiv_xml.php?subject=emergency_medicine
+ 
+# === NATURE FAMILY ===
+Nature Human Behaviour | https://www.nature.com/nathumbehav.rss
+npj Digital Medicine | https://www.nature.com/npjdigitalmed.rss
+Scientific Reports | https://www.nature.com/srep.rss
