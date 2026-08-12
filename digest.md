@@ -1,6 +1,6 @@
 # Weekly ToC Digest, week of 2026-08-12
 
-New papers on suicidality, intensive longitudinal data, and computational methods, scanned automatically each Monday and ranked against the [interests](interests.html) that drive this digest. Scores are a language model's judgement from the title and abstract only, so read them as triage and not as appraisal.
+New papers scanned automatically each Monday and ranked against the [interests](interests.html) that drive this digest. Scores are a language model's judgement from the title and abstract only, so read them as triage and not as appraisal.
 
 | Section | Kept | Threshold |
 |---|---:|---:|
