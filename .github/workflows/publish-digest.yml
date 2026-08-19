@@ -31,9 +31,9 @@ jobs:
     steps:
       - name: Check out repository
         # For workflow_run, check out the commit the digest job just pushed.
-        uses: actions/checkout@v5
+        uses: actions/checkout@v5        
         with:
-          ref: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_sha || github.ref }}
+          ref: ${{ github.event.repository.default_branch }}
 
       # Turns Pages on via the API if it is not already on, and creates the
       # github-pages environment. Without this, deploy-pages fails with a bare
