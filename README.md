@@ -3,7 +3,7 @@
 Pulls new papers from journal RSS feeds and PubMed every Monday, ranks them against your
 research interests with an (open) LLM, and publishes the result to GitHub Pages.
 
-Live digest: <https://samsievertsen.github.io/tocify/>
+Live digest: <https://drtrevorhall-lang.github.io/tocify/>
 
 ## Quick start
 
