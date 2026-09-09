@@ -810,11 +810,11 @@ def render(result, items_by_id, stats):
 
     L = [f"# Weekly ToC Digest, week of {week_of}", ""]
     L += [
-        "New papers on suicidality, intensive longitudinal data, and computational "
-        "methods, scanned automatically each Monday and ranked against the "
-        "[interests](interests.html) that drive this digest. Scores are a language "
-        "model's judgement from the title and abstract only, so read them as triage "
-        "and not as appraisal.",
+        "New papers on Pediatric neurotrauma & concussion, neurocritical & hospital care "
+        "outcomes, and neuropsychological assessment & methods, scanned automatically " 
+        "each Monday and ranked against the [interests](interests.html) that drive this "
+        "digest. Scores are a language model's judgement from the title and abstract only, "
+        " so read them as triage and not as appraisal. ",
         "",
     ]
     for w in warnings:
