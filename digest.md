@@ -1,27 +1,41 @@
-# Weekly ToC Digest, week of 2026-09-14
+# Weekly ToC Digest, week of 2026-09-21
 
 New papers on Pediatric neurotrauma & concussion, neurocritical & hospital care outcomes, and neuropsychological assessment & methods, scanned automatically each Monday and ranked against the [interests](interests.html) that drive this digest. Scores are a language model's judgement from the title and abstract only,  so read them as triage and not as appraisal. 
 
 | Section | Kept | Threshold |
 |---|---:|---:|
-| Pediatric neurotrauma & concussion | 9 | ≥ 0.55 |
-| Neurocritical & hospital care outcomes | 4 | ≥ 0.58 |
-| Neuropsychological assessment & methods | 6 | ≥ 0.58 |
-| Adjacent developmental neuroscience | 0 | ≥ 0.65 |
+| Pediatric neurotrauma & concussion | 5 | ≥ 0.55 |
+| Neurocritical & hospital care outcomes | 10 | ≥ 0.58 |
+| Neuropsychological assessment & methods | 9 | ≥ 0.58 |
+| Adjacent developmental neuroscience | 9 | ≥ 0.65 |
 
-*19 kept from 280 scored, out of 707 gathered across 18 journal feeds and 7 PubMed queries in the last 7 days. Spanning 17 sources; 16 of 19 include an abstract.*
+*33 kept from 280 scored, out of 634 gathered across 18 journal feeds and 7 PubMed queries in the last 7 days. Spanning 24 sources; 25 of 33 include an abstract.*
 
 ---
 
 ## Pediatric neurotrauma & concussion
 
+### [Youth Football and the Epidemic of Pediatric Brain Injury: Neurologic and Psychiatric Outcomes in a Cohort of 72,025 Concussions.](https://pubmed.ncbi.nlm.nih.gov/42753228/)
+
+*Neurol Clin Pract (PubMed)* · **0.65** · 2026-09-17
+
+`pediatric TBI` `concussion` `sports injury` `neurologic outcomes` `psychiatric morbidity`
+
+Large cohort of 72,025 youth concussions examines neurologic and psychiatric outcomes across sports and developmental stages.
+
+<details><summary>Abstract snippet</summary>
+
+BACKGROUND AND OBJECTIVES: Sports-related traumatic brain injury (TBI) is among the most common causes of long-term neurologic and psychiatric morbidity in children and young adults. Football, in particular, has been implicated as a leading source of TBI, yet large-scale comparative studies across sports and developmental stages are limited. The objective of this study was to quantify the burden of football-related TBI in youth compared with other sports and recreational activities, and to…
+
+</details>
+
 ### [Factors Associated With 3-Month Neurological Outcome in Pediatric Patients With Traumatic Brain Injury: A Preliminary Study.](https://pubmed.ncbi.nlm.nih.gov/42734032/)
 
-*J Neurosurg Anesthesiol (PubMed)* · **0.88** · 2026-09-14
+*J Neurosurg Anesthesiol (PubMed)* · **0.60** · 2026-09-14
 
-`pediatric TBI` `neurological outcome` `GOSE` `PICU`
+`pediatric TBI` `ICU factors` `GOSE` `neurological outcome` `moderate-severe TBI`
 
-Evaluates ICU-related factors associated with 3-month neurological outcomes (GOSE) in pediatric patients with moderate to severe TBI.
+Evaluates ICU-related factors and 3-month neurological outcome using GOSE in pediatric moderate-severe TBI patients admitted to neuro-ICU.
 
 <details><summary>Abstract snippet</summary>
 
@@ -29,105 +43,35 @@ BACKGROUND: Traumatic brain injury (TBI) is associated with significant morbidit
 
 </details>
 
-### [A Clinical Prediction Model for Self-Harm After Adolescent Traumatic Brain Injury.](https://pubmed.ncbi.nlm.nih.gov/42717295/)
+### [What happens when an athlete suffers a concussion outside of sport? An in-depth analysis of non-sport-related concussion in adolescent athletes.](https://pubmed.ncbi.nlm.nih.gov/42736598/)
 
-*J Neuropsychiatry Clin Neurosci (PubMed)* · **0.85** · 2026-09-10
+*Brain Inj (PubMed)* · **0.60** · 2026-09-14
 
-`adolescent TBI` `prognostic model` `self-harm` `longitudinal`
+`adolescent concussion` `non-sport-related` `recovery` `cohort` `high school athletes`
 
-Retrospective cohort study using a population-linked dataset to develop and validate a risk model for self-harm after adolescent TBI.
-
-<details><summary>Abstract snippet</summary>
-
-OBJECTIVE: Few prognostic models are available to assess risks of adverse outcomes among traumatic brain injury (TBI) patients beyond acute care. Self-harm is an important adverse outcome with modifiable risk factors. The authors developed and validated a risk model for self-harm after TBI in adolescence. METHODS: In this retrospective cohort study, the authors utilized a population-linked dataset based in Wales (the Secure Anonymised Information Linkage Databank). It included adolescents ages…
-
-</details>
-
-### [Associations Between Saliva-Based Biomarkers and Pediatric Concussion Subtypes](https://www.sciencedirect.com/science/article/pii/S0022347626003380?dgcid=rss_sd_all)
-
-*J Pediatrics / PubMed* · **0.82** · 2026-09-07
-
-`pediatric concussion` `biomarkers` `multicenter` `subtyping`
-
-Multicenter cross-sectional study of pediatric patients (11-20 years) linking saliva-based biomarkers to specific concussion subtypes.
+Retrospective cohort of high school athletes describes non-sport-related concussion demographics, recovery patterns, and injury severity across mechanisms.
 
 <details><summary>Abstract snippet</summary>
 
-OBJECTIVE: To test the hypothesis that specific saliva-based biomarkers are associated with pediatric concussion subtypes. STUDY DESIGN: A cross-sectional, multicenter study was conducted from August 2021 to January 2024, of pediatric patients aged 11-20 years within 10 days of a diagnosed concussion and uninjured, healthy controls. Concussion subtypes, including anxiety/mood, cognitive, migraine, ocular, and vestibular, were blindly adjudicated using previously published common data elements…
+INTRODUCTION: Sport-related concussion (SRC) has been widely studied in high school athletes, yet non-sport-related concussion (non-SRC) has received less attention. Thus, in a cohort of high school athletes diagnosed with non-SRC, we sought to: 1) describe demographic characteristics, medical history, and recovery patterns, and 2) compare injury severity and recovery outcomes across common non-SRC mechanisms. METHODS: The current retrospective cohort study included athletes aged 14-18 years…
 
 </details>
 
 ### [Acute Emotional Symptoms Predict Emotional Functioning Up to 6 Months After Pediatric Concussion: An A-CAP Study](https://www.sciencedirect.com/science/article/pii/S0022347626003392?dgcid=rss_sd_all)
 
-*J Pediatrics* · **0.80**
+*J Pediatrics* · **0.60**
 
-`pediatric concussion` `longitudinal` `emotional functioning` `prognosis`
+`pediatric concussion` `emotional symptoms` `6-month outcome` `prospective` `A-CAP`
 
-Examines if acute emotional symptoms predict emotional functioning up to 6 months after pediatric concussion.
+Prospective cohort finds acute emotional symptoms predict emotional functioning up to six months after pediatric concussion.
 
-### [Feasibility and Clinical Utility of a Modified Step Test for Evaluating Exercise Intolerance After Pediatric and Adolescent Concussion in the Ambulatory Setting.](https://pubmed.ncbi.nlm.nih.gov/42703626/)
+### [Long-Term Outcomes of Patients Seeking Specialized Health Care for Persisting Postconcussion Symptoms After a Mild Head Injury](https://www.sciencedirect.com/science/article/pii/S0003999326006271?dgcid=rss_sd_all)
 
-*Sports Health (PubMed)* · **0.75** · 2026-09-07
+*Arch Phys Med Rehabil* · **0.60**
 
-`pediatric concussion` `exercise intolerance` `functional outcome` `prognosis`
+`postconcussion syndrome` `long-term outcomes` `specialized care` `mild TBI` `follow-up`
 
-Observational study evaluating a modified step test for exercise intolerance in youth with concussion and its utility in predicting prolonged recovery.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: Exercise intolerance (EI) is an important component of concussion pathophysiology, serving as a predictor for persisting symptoms, as well as a therapeutic target. It traditionally requires bulky, expensive equipment such as a treadmill to assess. PURPOSE: To evaluate the feasibility of a modified step test to assess EI in youth with concussion and determine its clinical utility for predicting prolonged recovery. STUDY DESIGN: Observational. LEVEL OF EVIDENCE: Level 2. METHODS: A…
-
-</details>
-
-### [Near and distance vergence facility provides complementary clinical information in concussion-related convergence insufficiency.](https://pubmed.ncbi.nlm.nih.gov/42717267/)
-
-*Optom Vis Sci (PubMed)* · **0.68** · 2026-09-01
-
-`adolescent concussion` `visual function` `RCT secondary analysis`
-
-Secondary analysis of a randomized trial evaluating vergence facility in adolescents/young adults (11-25 years) with concussion.
-
-<details><summary>Abstract snippet</summary>
-
-PURPOSE: To compare near and distance vergence facility testing in adolescents and young adults with concussion-related convergence insufficiency and evaluate changes following office-based vergence/accommodative therapy (OBVAM). METHODS: This secondary analysis of the CONCUSS randomized clinical trial evaluated vergence facility at near (40 cm) and distance (4 m) using a 12Δ base out/3Δ base in prism flipper. Participants aged 11-25 years with concussion-related convergence insufficiency were…
-
-</details>
-
-### [Clinical characteristics, management, and outcomes of polytraumatized children: a retrospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/42723005/)
-
-*Int J Emerg Med (PubMed)* · **0.65** · 2026-09-10
-
-`pediatric polytrauma` `TBI` `retrospective cohort`
-
-Retrospective cohort study of pediatric polytrauma, evaluating injury patterns and outcomes including TBI.
-
-<details><summary>Abstract snippet</summary>
-
-INTRODUCTION: Pediatric polytrauma remains a major cause of morbidity and mortality worldwide. Owing to age-specific anatomical and physiological characteristics, children are particularly vulnerable to traumatic brain injury (TBI), which frequently represents the most severe component of polytrauma. This study aimed to evaluate injury mechanisms, injury patterns, treatment strategies, complications, and outcomes in pediatric polytrauma patients treated at a tertiary trauma center. METHODS: A…
-
-</details>
-
-### [Exploring the causes and impact of pediatric complicated mild traumatic brain injuries.](https://pubmed.ncbi.nlm.nih.gov/42713913/)
-
-*PM R (PubMed)* · **0.60** · 2026-09-09
-
-`pediatric mTBI` `epidemiology` `c-mTBI`
-
-Explores etiology and epidemiological trends of complicated mild TBI in children.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: Traumatic brain injury (TBI) is a leading cause of morbidity and mortality in children, with mild TBI (mTBI) accounting for approximately 80% of cases. Complicated mTBI (c-mTBI) is characterized by radiographic evidence of intracranial abnormalities and/or skull fractures. Understanding the etiology and epidemiological trends of c-mTBI in the pediatric population is crucial for prevention and management strategies. OBJECTIVE: To fill gaps in current knowledge of pediatric c-mTBI,…
-
-</details>
-
-### [Traumatic Brain Injury in Children Ages 0-5 Years and Associations With Select Health Conditions and Services](https://www.sciencedirect.com/science/article/pii/S0887899426002560?dgcid=rss_sd_all)
-
-*Pediatric Neurology* · **0.55**
-
-`early childhood TBI` `health services`
-
-Examines TBI in very young children (0-5 years) and associations with health services.
+Examines long-term outcomes of patients seeking specialized care for persisting postconcussion symptoms after mild head injury.
 
 ---
 
@@ -135,139 +79,365 @@ Examines TBI in very young children (0-5 years) and associations with health ser
 
 ### [Perioperative Brain Damage Biomarkers Predict Neurodevelopmental Delay After Infant Cardiac Surgery: A Multicenter Study](https://www.sciencedirect.com/science/article/pii/S0887899426002535?dgcid=rss_sd_all)
 
-*Pediatric Neurology / PubMed* · **0.90** · 2026-08-11
+*Pediatric Neurology* · **0.88**
 
-`cardiac surgery` `biomarkers` `neurodevelopmental delay` `prospective multicenter` `PICU`
+`infant cardiac surgery` `biomarkers` `neurodevelopmental delay` `multicenter` `critical illness`
 
-Prospective multicenter observational study of infants undergoing cardiac surgery measuring perioperative brain damage biomarkers to predict neurodevelopmental delay.
+Perioperative brain damage biomarkers predict neurodevelopmental delay after infant cardiac surgery in a multicenter study.
 
-<details><summary>Abstract snippet</summary>
+### [Integrating optimal patient-centered care: patient- and family-reported experiences after complex treatment for rare diseases.](https://pubmed.ncbi.nlm.nih.gov/42762385/)
 
-BACKGROUND: Infants with congenital heart disease are at high risk for neurodevelopmental impairment following cardiac surgery. Brain damage biomarkers may provide insight into perioperative brain injury and neurodevelopmental outcomes. METHODS: Prospective observational study conducted in two pediatric/neonatal cardiac intensive care units in North America and Europe in children undergoing cardiac surgery. Blood samples were obtained preoperatively and at 0, 24, 48, and 72 hours…
+*World J Pediatr (PubMed)* · **0.85** · 2026-09-19
 
-</details>
+`PICS-p` `family functioning` `quality of life` `longitudinal follow-up`
 
-### [Clinical and multi-omics characterisation of early neurodevelopmental disorders associated with critical congenital heart disease: the prospective cohort CATAMARAN neonatal study protocol.](https://pubmed.ncbi.nlm.nih.gov/42711078/)
-
-*BMJ Open (PubMed)* · **0.90** · 2026-09-08
-
-`critical CHD` `neurodevelopment` `prospective cohort` `multi-omics` `neonatal`
-
-Prospective cohort protocol (CATAMARAN) aims to characterize neurodevelopmental disorders associated with critical congenital heart disease using multi-omics.
+Evaluates patient- and family-reported experiences across three follow-up care pathways for complex childhood rare diseases, addressing long-term impacts on family functioning and quality of life.
 
 <details><summary>Abstract snippet</summary>
 
-INTRODUCTION: Critical congenital heart disease (CHD) is associated with neurodevelopmental disorders, recognised as the most common long-term morbidity in affected children. In critical CHD, that is, CHD requiring cardiac surgery within the first 3 months of life, 30%-50% of children have lower developmental scores. Therefore, early identification of at-risk infants is crucial, yet there is no scientifically evaluated care programme in France. This study aims to evaluate early…
+BACKGROUND: Although life expectancy after complex treatments for rare diseases during childhood has increased, long-term medical, psychosocial and societal impacts remain for children and their families. Evaluating patient and family experiences is essential for the development and optimization of integrated patient-centered, value-based care pathways. This study aims to evaluate patient- and family-reported experiences across three follow-up care pathways for complex treatment of rare…
 
 </details>
 
-### [Parenting after critical illness: a biopsychosocial review of post-intensive care syndrome, family systems, and child outcomes.](https://pubmed.ncbi.nlm.nih.gov/42731035/)
+### [Paradoxical reactions in pediatric HIV-negative CNS tuberculosis: A longitudinal cohort study](https://www.sciencedirect.com/science/article/pii/S1090379826000814?dgcid=rss_sd_all)
 
-*Psychol Health Med (PubMed)* · **0.70** · 2026-09-12
+*Eur J Paediatric Neurology* · **0.82**
 
-`PICS` `family functioning` `parenting` `review`
+`CNS tuberculosis` `pediatric` `longitudinal cohort` `paradoxical reactions`
 
-Biopsychosocial review of PICS and family systems, specifically focusing on how adult ICU survivorship impacts parenting and child outcomes.
+Longitudinal cohort study investigates paradoxical reactions in pediatric HIV‑negative central nervous system tuberculosis.
+
+### [Virtual reality for rehabilitation and engagement in pediatric intensive care: a systematic review of feasibility, safety and outcomes.](https://pubmed.ncbi.nlm.nih.gov/42741320/)
+
+*Front Pediatr (PubMed)* · **0.80** · 2026-08-31
+
+`PICU` `virtual reality` `rehabilitation` `neurocognitive` `systematic review`
+
+Systematic review evaluates feasibility, safety, and outcomes of virtual reality rehabilitation for children in PICU, addressing neurocognitive morbidity.
 
 <details><summary>Abstract snippet</summary>
 
-Parenting is a multi-domain capacity integrating emotional availability, executive functioning, physical caregiving, and a coherent self-narrative. When a parent survives critical illness and develops post-intensive care syndrome (PICS), these foundations may be disturbed concurrently, yet parenting has not been studied as an outcome of adult ICU survivorship. This biopsychosocial review treats parenting as the central phenomenon, drawing on family systems, attachment, ecological, and trauma…
+UNLABELLED: Children admitted to pediatric intensive care units (PICUs) are at risk of acquired weakness, delirium, and long-term functional and neurocognitive morbidity. Although early rehabilitation is recommended to mitigate these adverse outcomes, its delivery remains challenging. Virtual reality (VR) has been proposed as a means of enhancing engagement in rehabilitation in this setting. This systematic review evaluated the feasibility, safety, and outcomes of VR delivered to children…
 
 </details>
 
-### [Prognostic utility of the NEOS score in pediatric antibody-negative encephalitis: A cohort study](https://www.sciencedirect.com/science/article/pii/S1090379826000942?dgcid=rss_sd_all)
+### [Parental Stress in the Pediatric Intensive Care Unit and Its Association with Clinical Outcomes: A Prospective Observational Study.](https://pubmed.ncbi.nlm.nih.gov/42751874/)
 
-*Eur J Paediatric Neurology* · **0.60**
+*Ann Afr Med (PubMed)* · **0.75** · 2026-09-17
 
-`NEOS score` `encephalitis` `prognostic` `cohort study`
+`PICU` `parental stress` `prospective` `clinical outcomes` `critically ill`
 
-Cohort study evaluating prognostic utility of the NEOS score in pediatric antibody-negative encephalitis.
+Prospective observational study links parental stress during PICU admission (using length of stay as proxy) to clinical outcomes in critically ill children.
+
+<details><summary>Abstract snippet</summary>
+
+BACKGROUND: Children, who represent the emotional center of parents and the future of the nation, when hospitalized in the pediatric intensive care unit (PICU), place caregivers under substantial psychological strain due to disruption of family life and persistent uncertainty during critical illness. OBJECTIVES: To assess parental stress during PICU admission using length of stay as a proxy indicator and to examine its association with selected clinical outcomes among critically ill children.…
+
+</details>
+
+### [Incidence, Prevalence, Risk Factors, and Outcomes of ICU-Acquired Weakness Among Critically Ill Children: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42742474/)
+
+*J Intensive Care Med (PubMed)* · **0.70** · 2026-09-15
+
+`pediatric ICUAW` `critical care outcomes` `systematic review`
+
+Systematic review and meta-analysis of ICU-acquired weakness in critically ill children, covering incidence, risk factors, and outcomes. The review synthesizes evidence on ICUAW’s short- and long-term health impacts.
+
+<details><summary>Abstract snippet</summary>
+
+BackgroundICU-acquired weakness (ICUAW) is a common neuromuscular complication affecting both short- and long-terms health outcomes in critically ill children. To date, no comprehensive systematic review has synthesized evidence on ICUAW in pediatric populations. This systematic review aims to identify the incidence, prevalence, risk factors, and outcomes for ICUAW among critically ill children.MethodsThe review was conducted following JBI systematic review methodology and reported following…
+
+</details>
+
+### [Prognostic Utility of Pro-Oxidant-Antioxidant Balance in Preterm Neonates with Respiratory Distress Syndrome: Insights into Disease Severity and Developmental Outcomes.](https://pubmed.ncbi.nlm.nih.gov/42752268/)
+
+*J Neonatal Perinatal Med (PubMed)* · **0.65** · 2026-09-17
+
+`RDS` `oxidative stress` `developmental outcomes` `preterm neonates`
+
+Investigates prognostic utility of oxidative stress markers in preterm neonates with RDS, linking disease severity to developmental outcomes.
+
+<details><summary>Abstract snippet</summary>
+
+BackgroundOxidative stress plays an important role in the pathophysiology of respiratory distress syndrome (RDS) in preterm neonates. The pro-oxidant-antioxidant balance (PAB) assay provides an integrated measure of oxidative status; however, its association with RDS severity and long-term outcomes remains incompletely defined. This study aimed to evaluate PAB in preterm infants with and without RDS and to investigate its association with disease severity, bronchopulmonary dysplasia (BPD), and…
+
+</details>
+
+### [Increasing Rounds Participation for Caregivers Who Prefer a Language Other Than English.](https://pubmed.ncbi.nlm.nih.gov/42749295/)
+
+*Hosp Pediatr (PubMed)* · **0.65** · 2026-09-17
+
+`family-centered care` `language barriers` `PICU communication` `caregiver participation`
+
+Quality-improvement initiative improving family-centered rounds participation for non-English-speaking caregivers, addressing communication barriers in PICU care.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVES: For patients admitted to our hospital medicine resident services, we found that caregivers who were present at bedside and who preferred a language other than English (LOE) participated in family-centered rounds (FCRs) 53% of the time compared with 92% for English-preferring caregivers. We conducted a quality-improvement initiative with the aim of improving monthly FCR participation for LOE-preferring caregivers from 53% to 92%, regardless of preferred language. METHODS: We…
+
+</details>
+
+### [Using Serum Lactate Concentration to Correct for the Anion Gap.](https://pubmed.ncbi.nlm.nih.gov/42762198/)
+
+*J Intensive Care Med (PubMed)* · **0.65** · 2026-09-19
+
+`anion gap` `lactate` `acid-base balance` `critical care`
+
+Critical care article on serum lactate correction for anion gap, relevant to acid-base management in PICU patients.
+
+### [Subtracting Lactate From the Anion Gap: From Association to Diagnosis.](https://pubmed.ncbi.nlm.nih.gov/42762195/)
+
+*J Intensive Care Med (PubMed)* · **0.65** · 2026-09-19
+
+`anion gap` `lactate` `diagnosis` `critical care`
+
+Critical care article on lactate subtraction from anion gap, addressing diagnostic approaches in PICU settings.
 
 ---
 
 ## Neuropsychological assessment & methods
 
-### [Examining reaction time variables to detect invalid performance on the TOMM 2: comparing mTBI to simulators using two procedures.](https://pubmed.ncbi.nlm.nih.gov/42703675/)
+### [Establishing preliminary normative reference values for oral motor skills in typically developing Egyptian children using oral placement therapy tools.](https://pubmed.ncbi.nlm.nih.gov/42760549/)
 
-*J Clin Exp Neuropsychol (PubMed)* · **0.92** · 2026-09-07
+*BMC Pediatr (PubMed)* · **0.90** · 2026-09-18
 
-`symptom validity` `TOMM 2` `mTBI` `psychometrics`
+`oral motor` `normative data` `pediatric assessment`
 
-Investigates reaction time indices to detect invalid performance on the TOMM 2, comparing mTBI patients to simulators.
+Establishes preliminary normative reference values for oral motor skills in typically developing Egyptian children using oral placement therapy tools. The data support standardized assessment and early intervention planning.
 
 <details><summary>Abstract snippet</summary>
 
-Two studies are presented involving simulator designs to investigate the utility of reaction time (RT) indices from the first two trials of the computerized TOMM 2. A sample of largely mild traumatic brain injuries (TBI) was compared to simulators whose correct responding was below the traditional passing score of 45/50 but not significantly below chance. In Study 1, 47 healthy participants were presented a scenario in which they were given the opportunity to malinger for financial…
+INTRODUCTION: Oral motor skills are essential for normal feeding and speech development. Impairments in these functions may adversely affect a child's growth, communication abilities, and overall quality of life. Accurate and standardized assessment of oral motor function is therefore critical for early diagnosis and intervention. However, many currently available assessment tools lack adequate objectivity and standardization. AIM: This study aimed to evaluate oral motor function in typically…
 
 </details>
 
-### [Nomograms for Computed Tomography Measured Intracranial Volume in Children and Intracranial Volume Centiles in Craniosynostosis.](https://pubmed.ncbi.nlm.nih.gov/42720595/)
+### [Development of the Children's English and Spanish Speech Recognition Test: Sound Field Data From Children With and Without Hearing Loss.](https://pubmed.ncbi.nlm.nih.gov/42747411/)
 
-*J Craniofac Surg (PubMed)* · **0.78** · 2026-09-10
+*Ear Hear (PubMed)* · **0.90** · 2026-09-16
 
-`normative data` `pediatric` `CT imaging` `validation`
+`speech perception` `normative data` `bilingual`
 
-Developed and validated a semiautomated approach to measure intracranial volume from CT in a large sample of 1579 healthy children to create normative centiles.
+Develops Children's English and Spanish Speech Recognition Test, providing normative sound field data for children with and without hearing loss. The test supports speech perception assessment in bilingual pediatric populations.
 
 <details><summary>Abstract snippet</summary>
 
-Patients with craniosynostosis are at risk of intracranial space constriction and raised intracranial pressure. CT imaging to determine cranial growth rates contributes to surgical decision-making. Exterior head circumference charts are still commonly used due to a sparsity of normative data reporting intracranial volume (ICV) growth patterns based on CT. In this retrospective study, we developed and validated a semiautomated approach to measure ICV from CT imaging. Using 1579 CTs from healthy…
+OBJECTIVES: Speech perception testing in the sound field plays an important role in assessing outcomes for children with hearing loss, particularly those who use sensory aids. The goals of the present report were to (1) establish normative data in the sound field for the Children's English and Spanish Speech Recognition test (ChEgSS) using English or Spanish targets presented in speech-shaped noise or two-talker speech, and (2) provide preliminary data on ChEgSS in the sound field for children…
 
 </details>
 
-### [Oral reading fluency assessment assisted by AI: associations with executive functions and intelligence in schoolchildren.](https://pubmed.ncbi.nlm.nih.gov/42708401/)
+### [Feasibility and Validity of Clinical Outcome Measures in a Prospective Natural History Study of STXBP1-Related Disorders](https://www.medrxiv.org/content/10.64898/2026.09.15.26361330v1?rss=1)
 
-*Appl Neuropsychol Child (PubMed)* · **0.70** · 2026-09-08
+*medRxiv Neurology* · **0.90** · 2026-09-16
 
-`oral reading fluency` `AI assessment` `executive functions` `intelligence` `schoolchildren`
+`STXBP1` `developmental phenotype` `standardized outcomes`
 
-Investigation of oral reading fluency via AI-assisted assessment in schoolchildren (n=106) and its associations with executive functions and intelligence.
+Prospective natural history study of 155 individuals with STXBP1-related disorders, using standardized outcome measures (Bayley-4, PDMS-3, GMFM-66) to describe developmental phenotype. The study provides feasibility and validity data for these clinical outcome measures.
 
 <details><summary>Abstract snippet</summary>
 
-OBJECTIVE: Oral reading fluency is central to reading proficiency, yet its relationships with distinct cognitive domains remain unclear. This study investigated the associations between oral reading fluency, executive functions, and intelligence in schoolchildren. METHODS: Students from the 2nd to the 5th grades (n = 106) were assessed through a standardized neuropsychological protocol. Reading fluency was measured using an artificial intelligence-based automated speech recognition system.…
+AimsTo describe the developmental phenotype of individuals with STXBP1-related disorders (STXBP1-RD) in a prospective natural history study using standardized outcome measures. MethodsData were collected from 155 individuals with a mean age of 8.2 years. The Bayley Scales of Infant and Toddler Development-Fourth Edition (Bayley-4), Hand Manipulation and Eye Hand Coordination subtests of the Peabody Developmental Motor Scales-Third Edition (PDMS-3), and Gross Motor Function Measure-66 (GMFM-66)…
 
 </details>
 
-### [Cognitive Flexibility Deficits in Developmental Dyscalculia: A Robust, Intelligence-Independent Impairment.](https://pubmed.ncbi.nlm.nih.gov/42722998/)
+### [Psychometric properties of the test of nonverbal intelligence-third edition (TONI-3) in Turkish middle school students.](https://pubmed.ncbi.nlm.nih.gov/42756437/)
 
-*Dev Neuropsychol (PubMed)* · **0.70** · 2026-09-10
+*Front Psychol (PubMed)* · **0.90** · 2026-09-03
 
-`cognitive flexibility` `developmental dyscalculia` `WCST-64` `pediatric` `case-control`
+`TONI-3` `psychometric validation` `Turkish`
 
-Study of cognitive flexibility deficits in pediatric developmental dyscalculia using WCST-64 in 64 Moroccan fourth-graders (32 cases, 32 controls).
+Examines psychometric properties of TONI-3 Form A in Turkish middle school students, providing validation evidence for early adolescence. The sample includes 1,041 students, covering ages 10–14 years.
 
 <details><summary>Abstract snippet</summary>
 
-Cognitive flexibility deficits are reported in developmental dyscalculia, but their specificity remains unclear. Sixty-four Moroccan fourth-graders (32 dyscalculia, 32 typically developing) completed the WCST-64. A composite Flexibility Z-score was analyzed via ANCOVA, ROC analysis, and Bayesian estimation. The group difference persisted after adjusting for age (adjusted d = 2.23), for working memory and inhibition (d = 2.47), and for nonverbal intelligence (d = 2.54), confirming…
+BACKGROUND: The aim of this study was to examine the psychometric properties of Form A of the Test of Nonverbal Intelligence-Third Edition (TONI-3) in Turkish middle school students aged 10 years 0 months to 14 years 0 months. Although TONI-3 has previously been validated in Turkish children and late adolescents, psychometric evidence for early adolescence remains limited. METHOD: The sample consisted of 1,041 middle school students in Aydın province (50.6% female; M = 11.74, SD = 1.15),…
 
 </details>
 
-### [Validity of an Online Cognitive Screening Tool for FASD: Testing the Equivalence of BRAIN-online to Neuropsychological Assessment Measures.](https://pubmed.ncbi.nlm.nih.gov/42728660/)
+### [Best practice recommendations for spoken and signed language interpreter-mediated clinical neuropsychological services.](https://pubmed.ncbi.nlm.nih.gov/42765873/)
 
-*Alcohol Clin Exp Res (Hoboken) (PubMed)* · **0.70** · 2026-09-01
+*Clin Neuropsychol (PubMed)* · **0.80** · 2026-09-21
 
-`BRAIN-online` `FASD` `cognitive screening` `validity` `neuropsychological assessment`
+`interpreter services` `equity` `assessment`
 
-Validation study comparing the BRAIN-online cognitive screening tool to standard neuropsychological assessment for fetal alcohol spectrum disorder.
+Provides best practice recommendations for interpreter-mediated clinical neuropsychological services, addressing linguistic and cultural diversity. The guidance aims to improve equity and patient-centered care for multilingual clients.
 
 <details><summary>Abstract snippet</summary>
 
-BACKGROUND: The diagnostic process for fetal alcohol spectrum disorders (FASD) requires investments in both time and cost. The Brief Assessment of Individual Neurobehavior, online version (BRAIN-online), is a screening tool designed to identify cognitive and behavioral symptoms associated with FASD. BRAIN-online is effective in distinguishing individuals with histories of prenatal alcohol exposure (PAE) and FASD; however, criterion validity of this screening tool has not been established. The…
+Objective: The increasing linguistic and cultural diversity of the United States population has intensified demand for equitable, patient-centered neuropsychological services. Yet, a persistent shortage of bilingual and multilingual neuropsychologists, across both spoken and signed languages, has resulted in growing reliance on interpreters. Despite this reality, empirically informed and clinically actionable guidance for interpreter‑mediated neuropsychological practice remains limited. This…
 
 </details>
 
-### [Comparative efficacy and cognitive safety of bifrontal versus bitemporal electroconvulsive therapy in adolescents with major depressive disorder: a retrospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/42719568/)
+### [Into the multiverse: Applications to neuropsychology.](https://pubmed.ncbi.nlm.nih.gov/42765966/)
 
-*Front Psychiatry (PubMed)* · **0.65** · 2026-08-26
+*Neuropsychology (PubMed)* · **0.70** · 2026-09-21
 
-`ECT` `adolescents` `cognitive safety` `retrospective cohort` `neuropsychological outcomes`
+`multiverse analysis` `methodology` `neuropsych assessment`
 
-Retrospective cohort of adolescents with major depressive disorder comparing cognitive safety of bifrontal versus bitemporal electroconvulsive therapy; summary highlights concerns about cognitive impairment and evaluates cognitive safety.
+Article describes a multiverse framework for exploring analytic decisions and robustness of findings in neuropsychology. The approach helps researchers navigate uncertainty in clinical syndrome heterogeneity.
 
 <details><summary>Abstract snippet</summary>
 
-BACKGROUND: Electroconvulsive therapy (ECT) remains a rapid and highly effective treatment for severe, treatment-resistant depression in adolescents, particularly when immediate suicide risk is present. However, its clinical utilization in the pediatric population is still low, largely restricted by pervasive concerns regarding cognitive impairment. While randomized trials in adults suggest that bifrontal (BF) electrode placement offers a superior cognitive safety profile compared to the…
+OBJECTIVE: In neuropsychology, the heterogeneity of clinical syndromes combined with extensive methodological options creates a complex decision tree of pathways that result in a range of possible findings. A multiverse approach is a framework for navigating this uncertainty, allowing researchers to explore the impact of analytic decisions and assess the robustness of research findings. In this article, we demonstrate how multiverse can be applied to examine outcomes following traumatic brain…
+
+</details>
+
+### [The critical role for neuropsychologists in the assessment and diagnosis of learning disorders: a position paper from the National Academy of Neuropsychology position, education, and response committee.](https://pubmed.ncbi.nlm.nih.gov/42734925/)
+
+*Arch Clin Neuropsychol (PubMed)* · **0.70** · 2026-09-01
+
+`learning disorders` `position paper` `assessment`
+
+Position paper outlines the role of neuropsychologists in assessing and diagnosing learning disorders, covering history and legislation. The paper discusses key considerations for clinical practice and training.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVE: Learning disorders are common neurodevelopmental disorders that affect cognitive functioning across the lifespan and frequently co-occur with medical and psychiatric conditions. This updated position paper from National Academy of Neuropsychology (NAN)'s Position, Education, and Response Committee discusses the role of neuropsychologists in identifying and diagnosing learning disorders. METHOD: The history of learning disorders is reviewed, along with key legislation related to…
+
+</details>
+
+### [Normative Values and Measurement Properties of the Bed Bridge Test](https://www.sciencedirect.com/science/article/pii/S0003999326006921?dgcid=rss_sd_all)
+
+*Arch Phys Med Rehabil* · **0.70**
+
+`normative data` `Bed Bridge Test` `measurement properties`
+
+Provides normative values and measurement properties of the Bed Bridge Test. The data support its use in clinical and research settings.
+
+<details><summary>Abstract snippet</summary>
+
+Larissa Guimarães Paiva, Nara Batista de Souza, Eduarda Aparecida Silva Coimbra, Sabrina Campos Furtado, Levy Soares da Silva Junior, Túlio Medina Dutra de Oliveira, Cristino Carneiro Oliveira, Anderson José, Carla Malaguti
+
+</details>
+
+### [Characterizing neuropsychological performance and its nutritional, visual, and physiological correlates in children.](https://pubmed.ncbi.nlm.nih.gov/42734924/)
+
+*Arch Clin Neuropsychol (PubMed)* · **0.60** · 2026-09-01
+
+`Ghana` `nutrition` `neuropsychological performance`
+
+Cross-sectional study of 290 Ghanaian preadolescent children examines neuropsychological performance and its associations with nutrition, vision, and physiological factors. The findings highlight correlates of cognitive function in a low-resource setting.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVE: To characterize neuropsychological performance in Ghanaian preadolescent children and examine its associations with demographic, health, nutritional, and visual factors. METHODS: A cross-sectional study was conducted among 290 preadolescent school children (median age: 11.0 years [IQR: 2.0]; range: 8-11 years; 54.8% female) from urban and rural public and private schools in the Ashanti Region of Ghana. Neuropsychological function was assessed using the Cambridge Neuropsychological…
+
+</details>
+
+---
+
+## Adjacent developmental neuroscience
+
+### [Cognition, internalizing symptoms and neonatal cingulate-amygdala interaction in children born very low birth weight.](https://pubmed.ncbi.nlm.nih.gov/42761270/)
+
+*Front Pediatr (PubMed)* · **0.80** · 2026-09-04
+
+`VLBW` `cognition` `neonatal neuroimaging`
+
+Examines cognition, internalizing symptoms, and neonatal cingulate-amygdala interaction in very low birth weight children, linking early brain structure to later outcomes. The study explores neurodevelopmental pathways that connect neonatal brain maturation with emotional outcomes.
+
+<details><summary>Abstract snippet</summary>
+
+INTRODUCTION: Children born with very low birth weight are at increased risk of cognitive difficulties and internalizing symptoms, including anxiety, withdrawal, and depressive features. However, the early neurodevelopmental pathways that connect neonatal brain maturation with emotional outcomes remain incompletely understood. This study examined whether internalizing symptoms at preschool age are associated with cognitive performance in children born with very low birth weight, and whether the…
+
+</details>
+
+### [Perfiles de factores de riesgo en lactantes nacidos prematuramente y a término con parálisis cerebral en Argentina: Resultados del Registro Argentino de Parálisis Cerebral.](https://pubmed.ncbi.nlm.nih.gov/42757571/)
+
+*Dev Med Child Neurol (PubMed)* · **0.65** · 2026-09-18
+
+`cerebral palsy` `prematurity` `risk factors` `developmental outcomes`
+
+Argentinian registry study of cerebral palsy risk factors in preterm and term infants, examining developmental outcomes in a well-characterized sample.
+
+### [Characteristics of Individuals With Cerebral Palsy Across the US](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2854123)
+
+*JAMA Network Open* · **0.65** · 2026-09-16
+
+`cerebral palsy` `demographics` `genetic etiology` `Gross Motor Function Classification System`
+
+Cross-sectional US study of cerebral palsy demographics and characteristics, examining associations with motor function and genetic etiology.
+
+<details><summary>Abstract snippet</summary>
+
+This cross-sectional study examines how demographics and characteristics of individuals with cerebral palsy across the US associate with Gross Motor Function Classification System level and genetic etiology.
+
+</details>
+
+### [Long-term effectiveness of a camp-based intervention for individuals with spina bifida and the role of randomized follow-up booster sessions.](https://pubmed.ncbi.nlm.nih.gov/42749357/)
+
+*J Pediatr Psychol (PubMed)* · **0.65** · 2026-09-16
+
+`spina bifida` `psychosocial intervention` `long-term follow-up` `goal attainment`
+
+Long-term follow-up of camp-based psychosocial intervention for spina bifida, examining sustained outcomes and booster session effects.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVE: This study aimed to determine the long-term effectiveness of a camp-based psychosocial intervention for individuals with spina bifida (SB) 8 months post-camp. Using exploratory analyses, this study also sought to examine the effect of individually tailored booster sessions on maintaining or enhancing progress in goal attainment, condition-related skill mastery, and social functioning after camp. METHODS: Campers (N = 78; age range = 7-46 years) participated in a week-long camp-based…
+
+</details>
+
+### [Supporting siblings of children with chronic medical conditions: a systematic review.](https://pubmed.ncbi.nlm.nih.gov/42748489/)
+
+*J Pediatr Psychol (PubMed)* · **0.65** · 2026-09-16
+
+`siblings` `chronic medical conditions` `psychosocial interventions` `systematic review`
+
+Systematic review of psychosocial interventions for siblings of children with chronic medical conditions, addressing family impact.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVE: Siblings of youth with chronic medical conditions (CMCs) experience a variety of family changes and are at risk for psychosocial problems. To support siblings, many medical specialties agree that evidence-based, sibling-focused interventions could be beneficial. This systematic review sought to understand the current evidence of psychosocial interventions for siblings of youth with any CMC. METHODS: PsycINFO, PubMed, Cumulative Index to Nursing and Allied Health Literature, Web of…
+
+</details>
+
+### [Caring for a child with cerebral palsy in rural Malawi: A mixed-methods study of caregiver experiences and support needs.](https://pubmed.ncbi.nlm.nih.gov/42748405/)
+
+*Dev Med Child Neurol (PubMed)* · **0.65** · 2026-09-16
+
+`cerebral palsy` `caregiver burden` `rural Malawi` `mixed methods`
+
+Mixed-methods study of caregiver experiences and support needs for children with cerebral palsy in rural Malawi, addressing resource-limited settings.
+
+<details><summary>Abstract snippet</summary>
+
+AIMS: To explore the emotional, physical, social, and economic demands experienced by caregivers of children with cerebral palsy in Mangochi District and identify coping mechanisms and sources of support. METHOD: A convergent, parallel, mixed-methods design was used. Six focus group discussions with primary caregivers (n = 42) were analysed with thematic analysis. A modified 9-item Burden Scale for Family Caregivers was administered to the same 42 caregivers and summarized using descriptive…
+
+</details>
+
+### [From caregiver burden to caregiver support: Rethinking cerebral palsy care in low-resource settings.](https://pubmed.ncbi.nlm.nih.gov/42748425/)
+
+*Dev Med Child Neurol (PubMed)* · **0.65** · 2026-09-16
+
+`cerebral palsy` `caregiver support` `family partnership` `international collaboration`
+
+Discusses caregiver support needs and family partnership in cerebral palsy care, proposing frameworks for international research collaboration.
+
+### [Rotational perturbation training improves muscle coordination during reactive standing balance in trained and untrained conditions in children with spastic cerebral palsy.](https://www.medrxiv.org/content/10.64898/2026.09.14.26361313v1?rss=1)
+
+*medRxiv Pediatrics* · **0.65** · 2026-09-17
+
+`cerebral palsy` `perturbation training` `balance control` `motor function`
+
+Perturbation training improves balance in children with spastic cerebral palsy, addressing motor outcomes in neurodevelopmental populations.
+
+<details><summary>Abstract snippet</summary>
+
+Perturbation training seems a promising tool to improve reactive balance in children with cerebral palsy. However, experimental evidence remains limited. In particular, little is known about how perturbation training alters muscle coordination, limiting insight into the mechanisms underlying training-induced improvements in balance control. Furthermore, it is unclear whether adaptations in balance control generalize to untrained balance tasks. Here, we investigated the effect of rotational…
+
+</details>
+
+### [Patterns of Outpatient Psychotherapy Among Children With Insurance](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2854125)
+
+*JAMA Network Open* · **0.65** · 2026-09-16
+
+`psychotherapy` `children` `insurance` `cross-sectional study`
+
+Cross-sectional study of outpatient psychotherapy patterns among insured US children, addressing mental health service utilization.
+
+<details><summary>Abstract snippet</summary>
+
+This cross-sectional study examines trends in the use, modality, and reimbursement of outpatient psychotherapy among commercially insured children in the US from 2016 to 2023.
 
 </details>
 
