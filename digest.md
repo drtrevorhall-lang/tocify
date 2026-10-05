@@ -1,31 +1,45 @@
-# Weekly ToC Digest, week of 2026-09-28
+# Weekly ToC Digest, week of 2026-10-05
 
 New papers on Pediatric neurotrauma & concussion, neurocritical & hospital care outcomes, and neuropsychological assessment & methods, scanned automatically each Monday and ranked against the [interests](interests.html) that drive this digest. Scores are a language model's judgement from the title and abstract only,  so read them as triage and not as appraisal. 
 
 | Section | Kept | Threshold |
 |---|---:|---:|
-| Pediatric neurotrauma & concussion | 1 | ≥ 0.55 |
-| Neurocritical & hospital care outcomes | 12 | ≥ 0.58 |
-| Neuropsychological assessment & methods | 9 | ≥ 0.58 |
+| Pediatric neurotrauma & concussion | 2 | ≥ 0.55 |
+| Neurocritical & hospital care outcomes | 7 | ≥ 0.58 |
+| Neuropsychological assessment & methods | 5 | ≥ 0.58 |
 | Adjacent developmental neuroscience | 0 | ≥ 0.65 |
 
-*22 kept from 280 scored, out of 624 gathered across 18 journal feeds and 7 PubMed queries in the last 7 days. Spanning 17 sources; 14 of 22 include an abstract.*
+*14 kept from 280 scored, out of 695 gathered across 18 journal feeds and 7 PubMed queries in the last 7 days. Spanning 11 sources; 9 of 14 include an abstract.*
 
 ---
 
 ## Pediatric neurotrauma & concussion
 
-### [Cognitive function and recovery during the first 6 months following pediatric mild traumatic brain injury: An A-CAP study.](https://pubmed.ncbi.nlm.nih.gov/42776082/)
+### [Development of a Simple MRI Scoring Tool in Severe Pediatric Traumatic Brain Injury: Secondary Analysis of the 2014-2017 "Approaches and Decisions in Acute Pediatric TBI Trial (ADAPT)" Multicenter Study.](https://pubmed.ncbi.nlm.nih.gov/42831737/)
 
-*J Int Neuropsychol Soc (PubMed)* · **0.88** · 2026-09-23
+*Pediatr Crit Care Med (PubMed)* · **0.90** · 2026-10-05
 
-`pediatric TBI` `mTBI` `cognitive outcome` `longitudinal cohort` `CNS Vital Signs`
+`pediatric TBI` `MRI scoring` `functional outcome` `ADAPT` `multicenter` `12-month`
 
-Prospective longitudinal cohort of children with mild traumatic brain injury and orthopedic controls, assessing cognitive functioning acutely and up to 6 months using CNS Vital Signs.
+Secondary analysis of the 2014-2017 ADAPT multicenter study develops a simple MRI scoring system associated with 12-month functional outcome in children with severe TBI.
 
 <details><summary>Abstract snippet</summary>
 
-OBJECTIVES: This prospective, longitudinal cohort study investigated cognitive functioning acutely and up to 6 months after pediatric mild traumatic brain injury (mTBI) relative to orthopedic injury (OI). METHODS: Children age 8-17 years with acute (≤48 hours) mTBI or OI were consecutively recruited from five pediatric Emergency Departments. Acute Predicting and Preventing Postconcussive Problems in Pediatrics (5P) clinical risk scores were calculated. Children completed three CNS Vital Signs…
+OBJECTIVES: We aimed to describe the frequency, depth, and co-occurrence of different intracerebral injury types detected on the first clinical brain MRI in children with severe traumatic brain injury (TBI) and to derive a simple MRI scoring system associated with 12-month functional outcome. DESIGN: Secondary analysis of the Approaches and Decision in Acute Pediatric TBI (ADAPT) multicenter 2014 to 2017 study. SETTING: A total of 24 ADAPT sites in the United States, United Kingdom, and…
+
+</details>
+
+### [Adolescent Mental Health Risk post-mild Traumatic Brain Injury: Examination of Diagnostic codes in Electronic Health Records](https://www.sciencedirect.com/science/article/pii/S0003999326009391?dgcid=rss_sd_all)
+
+*Arch Phys Med Rehabil / PubMed* · **0.55** · 2026-10-04
+
+`adolescent` `mTBI` `mental health` `EHR` `retrospective cohort`
+
+Retrospective matched cohort of adolescents aged 11-17 with mild TBI identified via EHR, examining post-injury mental health diagnostic codes.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVE: This study aimed to understand the frequency and association of post-mild traumatic brain injury (mTBI) mental health (MH) diagnoses, examining the prevalence and risk factors. DESIGN: Retrospective matched cohort study using Electronic Health Record (EHR) data SETTING: Tertiary children's medical center PARTICIPANTS: Patients aged 11 to 17 from 2010 to 2024 were identified as mTBI cases, typically developing (TD), or orthopedic injury (OI) using diagnostic codes and Abbreviated…
 
 </details>
 
@@ -35,252 +49,144 @@ OBJECTIVES: This prospective, longitudinal cohort study investigated cognitive f
 
 ### [Association of Abnormal Cerebral Perfusion in Very Preterm Infants with Late-Onset Sepsis and Neurodevelopmental Outcomes at 2 Years of Age: A Prospective Cohort Study Using Arterial Spin Labeling](https://www.sciencedirect.com/science/article/pii/S0887899426002948?dgcid=rss_sd_all)
 
-*Pediatric Neurology* · **0.88**
+*Pediatric Neurology* · **0.90**
 
-`preterm infants` `late-onset sepsis` `neurodevelopmental outcomes` `arterial spin labeling` `prospective cohort`
+`preterm infants` `cerebral perfusion` `late-onset sepsis` `neurodevelopmental outcomes` `prospective cohort`
 
-Prospective cohort study using arterial spin labeling to associate abnormal cerebral perfusion in very preterm infants with late-onset sepsis and neurodevelopmental outcomes at 2 years.
-
-### [Physical, Emotional and Social Recovery After Severe Paediatric Accidents: A Six-Month Follow-Up Study.](https://pubmed.ncbi.nlm.nih.gov/42786719/)
-
-*Nurs Crit Care (PubMed)* · **0.88** · 2026-11-01
-
-`PICU` `follow-up` `pediatric accidents` `multi-domain outcomes` `six-month`
-
-Six-month follow-up study of children after PICU admission for severe unintentional accidents, assessing physical, emotional and social recovery.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: Globally, unintentional accidents rank among the leading causes of death and disability in children. Despite adequate and appropriate care, survivors commonly experience significant physical and psychosocial sequelae. AIMS: To examine multi-domain health outcomes 6 months after paediatric intensive care unit admission in children sustaining severe unintentional accidents and to identify clinical, demographic and accident-related predictors of suboptimal recovery. STUDY DESIGN: This…
-
-</details>
+Prospective cohort of very preterm infants linking abnormal cerebral perfusion, late‑onset sepsis, and neurodevelopmental outcomes at 2 years measured with arterial spin labeling.
 
 ### [Perioperative Brain Damage Biomarkers Predict Neurodevelopmental Delay After Infant Cardiac Surgery: A Multicenter Study](https://www.sciencedirect.com/science/article/pii/S0887899426002535?dgcid=rss_sd_all)
 
-*Pediatric Neurology* · **0.88**
+*Pediatric Neurology* · **0.90**
 
 `infant cardiac surgery` `biomarkers` `neurodevelopmental delay` `multicenter`
 
-Multicenter study links perioperative brain damage biomarkers to neurodevelopmental delay after infant cardiac surgery.
+Multicenter study linked perioperative brain damage biomarkers to neurodevelopmental delay after infant cardiac surgery.
 
-### [Association between cerebral proton magnetic resonance spectroscopy and school-age neurodevelopment after perinatal asphyxia and therapeutic hypothermia: a cohort study.](https://pubmed.ncbi.nlm.nih.gov/42785971/)
+### [Antiseizure medication use during hospitalization and at discharge in critically Ill children undergoing continuous EEG monitoring](https://www.sciencedirect.com/science/article/pii/S1059131126002682?dgcid=rss_sd_all)
 
-*Arch Dis Child Fetal Neonatal Ed (PubMed)* · **0.82** · 2026-09-24
+*Seizure* · **0.70**
 
-`perinatal asphyxia` `therapeutic hypothermia` `proton MRS` `neurodevelopment` `school age`
+`antiseizure` `EEG` `critically ill children` `hospitalization` `medication`
 
-Cohort study of 91 infants with moderate to severe HIE undergoing therapeutic hypothermia, associating early proton MRS metabolite ratios with school-age neurodevelopment at 5-8 years.
+Examines antiseizure medication use during hospitalization and at discharge in critically ill children undergoing continuous EEG monitoring.
 
-<details><summary>Abstract snippet</summary>
+### [Do Acute Kidney Injury Phenotypes MAKE a Difference in Extracorporeal Membrane Oxygenation?](https://pubmed.ncbi.nlm.nih.gov/42831736/)
 
-OBJECTIVE: To assess the association of early proton magnetic resonance spectroscopy (¹H-MRS) metabolite ratios with adverse outcomes at 5-8 years in infants with hypoxic-ischaemic encephalopathy (HIE) undergoing therapeutic hypothermia (TH) and to compare the association with outcome at 5-8 years versus outcome at 2 years. DESIGN, SETTING AND PATIENTS: Single-centre, retrospective cohort study of 91 infants with moderate to severe HIE undergoing TH between 2011 and 2020, ¹H-MRS performed…
+*Pediatr Crit Care Med (PubMed)* · **0.70** · 2026-10-05
 
-</details>
+`AKI phenotypes` `ECMO` `pediatric critical care` `extracorporeal membrane oxygenation` `acute kidney injury`
 
-### [Neurotoxicity in Neuroprognostication: The Importance of Differential Diagnostic Clarity.](https://pubmed.ncbi.nlm.nih.gov/42768266/)
+Study examines whether different acute kidney injury phenotypes affect outcomes in pediatric extracorporeal membrane oxygenation.
 
-*Neurocrit Care (PubMed)* · **0.75** · 2026-09-21
+### [The Impact of PICU Diaries on Posttraumatic Stress Disorder and Psychological Distress in Parents of Critically Ill Children Admitted to PICUs: A Randomized Cluster Crossover Trial.](https://pubmed.ncbi.nlm.nih.gov/42831730/)
 
-`neurotoxicity` `neuroprognostication` `critical illness` `diagnostic clarity` `neurocrit care`
+*Pediatr Crit Care Med (PubMed)* · **0.65** · 2026-10-05
 
-Discusses neurotoxicity in neuroprognostication, emphasizing the need for differential diagnostic clarity in critically ill patients.
+`PICU` `parental PTSD` `psychological distress` `family functioning` `randomized trial`
 
-### [Effects of psychosocial interventions on emotional health outcomes in parents within one year after paediatric intensive care: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42790387/)
-
-*Intensive Crit Care Nurs (PubMed)* · **0.70** · 2026-09-25
-
-`parental emotional health` `psychosocial interventions` `PICU` `meta-analysis`
-
-Systematic review and meta-analysis of psychosocial interventions on emotional health outcomes in parents within one year after pediatric intensive care.
+Randomized cluster crossover trial in four PICUs assessing effect of ICU diaries on parental PTSD and psychological distress among caregivers of critically ill children.
 
 <details><summary>Abstract snippet</summary>
 
-BACKGROUND: Post-intensive care syndrome in paediatrics affects the physical, cognitive, emotional, and social health of children and their families. Although psychosocial interventions are increasingly advocated, evidence regarding their effects on parental emotional health after paediatric intensive care unit (PICU) admission remains uncertain. OBJECTIVES: To determine the effects of psychosocial interventions on emotional health outcomes in parents of critically ill children within one year…
+OBJECTIVES: The study aimed to assess the effect of using diaries during hospitalization in a PICU on the occurrence of posttraumatic stress disorder (PTSD) and psychologic distress among family members of critically ill children. DESIGN: A two-arm, two-period, cluster-randomized, crossover trial. SETTINGS: Four PICUs in Rio de Janeiro, Brazil. PATIENTS: From December 2019 to December 2021, the primary caregiver of each child (age 29 d to 12 yr) admitted to the participant PICUs for more than…
 
 </details>
 
-### [Changes of motor nerve membrane excitability during the acute phase of critical illness](https://www.sciencedirect.com/science/article/pii/S1388245726008461?dgcid=rss_sd_all)
+### [Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42806496/)
 
-*Clinical Neurophysiology* · **0.70**
+*JAMA (PubMed)* · **0.65** · 2026-09-28
 
-`motor nerve excitability` `critical illness` `acute phase` `neurophysiology` `critically ill`
+`PICU` `blood pressure targets` `randomized trial` `permissive MAP` `multicenter`
 
-Reports changes in motor nerve membrane excitability during the acute phase of critical illness.
-
-### [Increasing Rates of Health-related Social Needs Screening in a Pediatric Critical Care Setting Through Quality Improvement.](https://pubmed.ncbi.nlm.nih.gov/42775359/)
-
-*Pediatr Qual Saf (PubMed)* · **0.60** · 2026-09-22
-
-`HRSN screening` `PICU` `quality improvement` `social needs`
-
-Quality improvement initiative to increase health-related social needs screening from 4% to 75% in a pediatric critical care setting.
+Multicenter, unblinded, pragmatic randomized clinical trial in 23 PICUs testing permissive mean arterial pressure targets versus standard targets in hypotensive critically ill children.
 
 <details><summary>Abstract snippet</summary>
 
-INTRODUCTION: Prior research has linked health-related social needs (HRSNs) with poor pediatric health outcomes. Studies have demonstrated the implementation of HRSN screening in lower-acuity settings, but few have been conducted in pediatric intensive care units (PICUs). Our primary aim was to increase HRSN screening from 4% to 75% between February 2024 and May 2025. Our secondary aim was to increase referral rates for community health workers (CHW) from 0% to 75% for those with unmet HRSNs.…
+IMPORTANCE: Vasoactive drugs are often given to critically ill children to treat hypotension. However, optimal mean arterial pressure (MAP) targets are unknown. OBJECTIVE: To evaluate whether adopting a permissive MAP target, and thereby potentially reducing exposure to vasoactive drugs, improves outcomes in hypotensive critically ill children. DESIGN, SETTING, AND PARTICIPANTS: This multicenter, unblinded, pragmatic randomized clinical trial was conducted in 23 pediatric intensive care units…
 
 </details>
 
-### [A National Pediatric Cohort Study on In-Hospital Cardiac Arrest in Sweden.](https://pubmed.ncbi.nlm.nih.gov/42802016/)
+### [Assessment of Residual Sedation in Patients with Traumatic Brain Injury after Cessation of Midazolam Infusion: Is There a Threshold Plasma Concentration?](https://pubmed.ncbi.nlm.nih.gov/42813466/)
 
-*Acta Anaesthesiol Scand (PubMed)* · **0.60** · 2026-11-01
+*J Neurotrauma (PubMed)* · **0.60** · 2026-09-30
 
-`pediatric cardiac arrest` `national cohort` `Sweden` `IHCA`
+`TBI` `midazolam` `sedation` `therapeutic drug monitoring` `retrospective`
 
-National pediatric cohort study describing in-hospital cardiac arrest reported across Swedish hospitals, focusing on non-specialized centers.
+Retrospective study evaluates the plasma concentration threshold of midazolam and metabolites for residual sedation following infusion cessation in critically ill TBI patients.
 
 <details><summary>Abstract snippet</summary>
 
-BACKGROUND: National data on pediatric in-hospital cardiac arrest (pIHCA) are limited, and cohorts from highly specialized pediatric centers may not reflect the broader hospital population. We aimed to describe pIHCA reported across Swedish hospitals, with particular focus on hospitals outside the two national centers for highly specialized pediatric cardiac care. METHODS: This retrospective observational registry study included patients aged 0-18 years with pIHCA reported to the Swedish…
+In traumatic brain injury (TBI) patients, therapeutic drug monitoring of midazolam and its metabolites can help to assess residual sedation. Based on previous literature in non-TBI patients, it is assumed that concentrations of <100 ug/L of midazolam are non-sedative. The objective of this study was to assess the threshold sum concentration of midazolam and metabolites for residual sedation after cessation of midazolam infusion in critically ill TBI patients. We performed a retrospective study…
 
 </details>
-
-### [Clinical Features, Risk Factors, and Outcomes of Pediatric Acute Encephalitis: A Retrospective Cohort Study from 2018-2024](https://www.sciencedirect.com/science/article/pii/S0887899426002870?dgcid=rss_sd_all)
-
-*Pediatric Neurology* · **0.60**
-
-`pediatric encephalitis` `retrospective cohort` `clinical features` `outcomes`
-
-Retrospective cohort study from 2018-2024 describing clinical features, risk factors, and outcomes of pediatric acute encephalitis.
-
-### [Prognostic utility of the NEOS score in pediatric antibody-negative encephalitis: A cohort study](https://www.sciencedirect.com/science/article/pii/S1090379826000942?dgcid=rss_sd_all)
-
-*Eur J Paediatric Neurology* · **0.60**
-
-`NEOS score` `encephalitis` `prognostic utility` `cohort study`
-
-Cohort study evaluating the prognostic utility of the NEOS score in pediatric antibody-negative encephalitis.
-
-### [Agitation Care Practices at US Children's Hospitals in a Multicenter Research Collaborative.](https://pubmed.ncbi.nlm.nih.gov/42802021/)
-
-*Hosp Pediatr (PubMed)* · **0.60** · 2026-09-28
-
-`agitation` `care practices` `multicenter` `children's hospitals`
-
-Multicenter research collaborative describing agitation care practices at US children's hospitals.
 
 ---
 
 ## Neuropsychological assessment & methods
 
-### [The effect of language of administration, experimentally induced symptom exaggeration, and criterion grouping method on self-reported depression and anxiety in Cuba: a cross-cultural study.](https://pubmed.ncbi.nlm.nih.gov/42782181/)
+### [Evaluating Precision and Responsiveness of MRI-derived Brain Volumetric and Clinical Outcome Measures in CLN3 Disease](https://www.medrxiv.org/content/10.64898/2026.09.29.26363931v1?rss=1)
 
-*Arch Clin Neuropsychol (PubMed)* · **0.68** · 2026-09-01
+*medRxiv Pediatrics* · **0.80** · 2026-09-30
 
-`symptom validity` `language` `depression` `anxiety` `cross‑cultural`
+`CLN3` `MRI volumetry` `precision` `responsiveness` `longitudinal` `pediatric`
 
-Cross‑cultural study tests how language of administration, induced symptom exaggeration, and criterion grouping affect self‑reported depression and anxiety, relevant to symptom validity.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: Despite increasing linguistic diversity in the US, little is known about the effects of limited English proficiency on psychiatric symptom report. METHOD: Cuban university students were randomly assigned to control (n = 51) or experimental malingering (expMAL) condition (n = 25). The Patient Health Questionnaire (PHQ)-9 and Generalized Anxiety Disorder (GAD)-7 were administered in both English and Spanish. Classification accuracy was calculated using expMAL status and…
-
-</details>
-
-### [Exploring memories of everyday life: a validation study of L-RECAP.](https://pubmed.ncbi.nlm.nih.gov/42770236/)
-
-*Arch Clin Neuropsychol (PubMed)* · **0.65** · 2026-09-01
-
-`L-RECAP` `memory validation` `ecological assessment`
-
-Validation study of L-RECAP, an ecological memory measure based on sampling everyday experiences.
+Longitudinal observational study evaluating precision and responsiveness of MRI‑derived brain volume metrics and clinical outcome measures in CLN3 disease (ages 0.5‑29.1 years).
 
 <details><summary>Abstract snippet</summary>
 
-OBJECTIVE: In six studies of healthy individuals, we examined the feasibility, validity, and reliability of L-RECAP, a new ecological measure of memory functioning based on the sampling of everyday experiences. METHOD: Participants received five notifications per day for 7 days via a mobile app, asking about their ongoing activities. Two days after the last notification, the accuracy, richness, specificity, and phenomenology of their memory for five of these activities were assessed with verbal…
+Background and ObjectiveFor their acceptance as endpoints in clinical trials, biomarkers and clinical outcome assessment (COA) measures should show reliability by being reproducible (precise) and responsive to change. We evaluated precision and responsiveness of MRI-derived brain volume metrics and various COAs in ceroid-lipofuscinosis, neuronal-3 (CLN3) disease. MethodsThis longitudinal observational study (NCT03307304) included 44 individuals with CLN3-related disease (ages 0.5-29.1 years,…
 
 </details>
 
-### [Good intentions but bad outcome: Critique of the Minnesota Neuropsychology Conference proposed guidelines.](https://pubmed.ncbi.nlm.nih.gov/42789371/)
+### [Askisi-MD: Development and Validation of a Web-Based Neuropsychological Screener for Mathematical Learning Difficulties Using Explainable Machine Learning.](https://pubmed.ncbi.nlm.nih.gov/42811906/)
 
-*Clin Neuropsychol (PubMed)* · **0.60** · 2026-09-25
+*J Integr Neurosci (PubMed)* · **0.80** · 2026-09-01
 
-`neuropsychology guidelines` `critique` `training` `cultural diversity`
+`neuropsychological screener` `mathematical learning difficulties` `validation` `children` `machine learning`
 
-Critique of proposed Minnesota Neuropsychology Conference guidelines regarding workforce diversification and cultural assessment.
+Presents development and validation of a web‑based neuropsychological screener (Askisi‑MD) for mathematical learning difficulties in children, using explainable machine learning.
 
 <details><summary>Abstract snippet</summary>
 
-Objective: The proposed Minnesota Neuropsychology Conference (MNC) guidelines may become enforceable standards for neuropsychology training. We describe the process and critique the content. Method: Review of the MNC process, proposed guidelines, and related documents. Conclusions: Some assertions in the proposed guidelines about diversification of the neuropsychology workforce and assessment of culturally diverse patients are laudable. However, the encroachment of the proposed guidelines into…
+BACKGROUND: Mathematical learning difficulties (MLD) are associated with weaknesses in both domain-specific numerical abilities and domain-general neurocognitive processes. In this study, we developed and validated a web-based neuropsychological screener, Askisi-Mathematical Difficulties (MD), that integrates cognitive control and mathematics-related tasks for the first-line identification of children at risk for MLD was developed and validated. METHODS: We enrolled 564 children, including 282…
 
 </details>
 
-### [The Stroop Color-Word Test - Short Form (SCWT-SF): Updated norms and validity in an Italian population sample.](https://pubmed.ncbi.nlm.nih.gov/42776079/)
+### [Psychometric properties of EQ-5D-Y-3L versus EQ-5D-Y-5L Arabic versions in healthy and diseased children.](https://pubmed.ncbi.nlm.nih.gov/42814230/)
 
-*J Int Neuropsychol Soc (PubMed)* · **0.60** · 2026-09-23
+*Eur J Health Econ (PubMed)* · **0.70** · 2026-09-30
 
-`Stroop` `norms` `validity` `Italian sample`
+`EQ‑5D‑Y` `psychometrics` `Arabic version` `children` `health‑related quality of life`
 
-Updates normative data for the Italian Stroop Color-Word Test Short Form, adding completion times and error counts.
+Evaluates psychometric properties of Arabic EQ‑5D‑Y‑3L and EQ‑5D‑Y‑5L versions in healthy and diseased children and adolescents in Egypt.
 
 <details><summary>Abstract snippet</summary>
 
-OBJECTIVES: More than two decades ago, normative data for two interference indices (Error Interference Effect, EIE; Time Interference Effect, TIE) from a short form of the Stroop Color-Word Test (SCWT-SF) were established in Italy. The present study aimed to update the normative data for the Italian SCWT-SF by extending the assessment beyond interference indices to include completion times and error counts across the three task conditions, namely Word Reading (W), Color Naming (C), and…
+BACKGROUND: There is growing interest in using Health-Related Quality of Life (HRQOL) instruments in clinical practice for children and adolescents. Before widespread use, it is important to critically evaluate the psychometric properties of new or updated HRQOL tools in different health conditions. OBJECTIVES: This study aimed to evaluate psychometric properties of the Arabic versions of EQ-5D-Y-3L and EQ-5D-Y-5L among children and adolescents with different health conditions in Egypt.…
 
 </details>
 
-### [The new Mainz Audiometric Test for Children aged 3-7 years (MATCH) in noise : Design, normalization, and validation.](https://pubmed.ncbi.nlm.nih.gov/42771167/)
+### [More Screens for Teens? The Incremental Value of Screening for Depression, Suicidality, and Anxiety in Pediatric Primary Care](https://www.sciencedirect.com/science/article/pii/S0022347626003161?dgcid=rss_sd_all)
 
-*HNO (PubMed)* · **0.60** · 2026-09-22
+*J Pediatrics* · **0.70**
 
-`MATCH` `audiometric` `children` `noise validation`
+`depression screening` `anxiety` `suicidality` `pediatric primary care` `mental health`
 
-Validation of the Mainz Audiometric Test for Children in noise, providing normative data for ages 3-7.
+Study evaluates incremental value of adding depression, suicidality, and anxiety screens in teen primary care.
+
+### [MIND-T1D: study protocol for a multidimensional neurocognitive and psychological assessment of Indian children and young adults with type 1 diabetes.](https://pubmed.ncbi.nlm.nih.gov/42829215/)
+
+*BMJ Paediatr Open (PubMed)* · **0.60** · 2026-10-03
+
+`T1D` `neurocognitive assessment` `psychological assessment` `pediatric` `protocol`
+
+Outlines a protocol for a multidimensional neurocognitive and psychological assessment of Indian children and young adults with type 1 diabetes.
 
 <details><summary>Abstract snippet</summary>
 
-BACKGROUND: The Mainz Audiometric Test for Children (MATCH) was originally developed for children aged 3-7 years and validated in quiet conditions. OBJECTIVE: The present study aimed to extend the MATCH to testing in noise, to establish normative data, and to validate the test under these conditions. MATERIALS AND METHODS: A total of 103 children aged 3 years and 3 months to 7 years and 7 months participated, including 76 with normal hearing and 27 with a hearing impairment. Recruitment took…
+BACKGROUND: Type 1 diabetes mellitus (T1D) is increasingly recognised to affect neurodevelopmental, cognitive and psychological functioning in children and young adults. Existing studies have largely evaluated biological, cognitive and psychological domains separately, and neuropsychological approaches suitable for multilingual and resource-constrained settings remain limited. This paper describes the MIND-T1D protocol, a culturally sensitive, clinically feasible, family-centred assessment…
 
 </details>
-
-### [Psychometric Properties of the Highly Sensitive Child Scale and Its Role in Socio-Emotional and Behavioral Development: Evidence from Japanese Adolescent Samples.](https://pubmed.ncbi.nlm.nih.gov/42770692/)
-
-*J Pers Assess (PubMed)* · **0.60** · 2026-09-22
-
-`Highly Sensitive Child scale` `psychometrics` `Japanese adolescents`
-
-Examines psychometric properties of the Highly Sensitive Child Scale in Japanese adolescents, reporting a bifactor structure.
-
-<details><summary>Abstract snippet</summary>
-
-Environmental sensitivity (referred to as trait sensitivity)-the capacity to perceive and process both supportive and adverse environmental experiences-may influence adolescent development, yet evidence in adolescence is scarce compared with that in childhood. We analyzed adolescent self-reports and maternal ratings from 2,375 Japanese adolescents across three studies. In Studies 1-2, the 21-item Highly Sensitive Child scale showed a bifactor structure (general sensitivity plus Ease of…
-
-</details>
-
-### [Best practice recommendations for spoken and signed language interpreter-mediated clinical neuropsychological services.](https://pubmed.ncbi.nlm.nih.gov/42765873/)
-
-*Clin Neuropsychol (PubMed)* · **0.60** · 2026-09-21
-
-`interpreter-mediated` `neuropsychology` `best practices` `linguistic diversity`
-
-Provides best practice recommendations for interpreter-mediated neuropsychological services to address linguistic diversity.
-
-<details><summary>Abstract snippet</summary>
-
-Objective: The increasing linguistic and cultural diversity of the United States population has intensified demand for equitable, patient-centered neuropsychological services. Yet, a persistent shortage of bilingual and multilingual neuropsychologists, across both spoken and signed languages, has resulted in growing reliance on interpreters. Despite this reality, empirically informed and clinically actionable guidance for interpreter‑mediated neuropsychological practice remains limited. This…
-
-</details>
-
-### [Validation of the Turkish parent-reported Diabetes Eating Problem Survey-Revised (DEPS-R) for screening disordered eating behaviors in adolescents with Type 1 diabetes.](https://pubmed.ncbi.nlm.nih.gov/42768389/)
-
-*J Eat Disord (PubMed)* · **0.60** · 2026-08-11
-
-`DEPS-R` `validation` `adolescents` `Type 1 diabetes`
-
-Validates Turkish parent-reported DEPS-R for screening disordered eating behaviors in adolescents with Type 1 diabetes.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: Adolescents with Type 1 diabetes are at increased risk of eating disorders, which have been associated with suboptimal metabolic control and an increased risk of complications. Reliable and culturally adapted screening tools are essential for early identification. However, the parent-reported version of the Diabetes Eating Problem Survey-Revised (DEPS-R) has not yet been validated in Turkish; therefore, this study aimed to evaluate its validity and reliability in adolescents aged…
-
-</details>
-
-### [Neuropsychological practice mirrors the changing landscape of epilepsy: Temporal trends in a level-4 epilepsy center from 1986 to 2024](https://www.sciencedirect.com/science/article/pii/S1059131126002323?dgcid=rss_sd_all)
-
-*Seizure* · **0.60**
-
-`epilepsy` `neuropsychological practice` `temporal trends` `level-4 center`
-
-Documents temporal trends in neuropsychological practice at an epilepsy center over nearly four decades.
 
 ---
