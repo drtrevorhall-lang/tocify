@@ -1,4 +1,4 @@
-# Weekly ToC Digest, week of 2026-11-02
+# Weekly ToC Digest, week of 2026-11-10
 
 New papers on Pediatric neurotrauma & concussion, neurocritical & hospital care outcomes, and neuropsychological assessment & methods, scanned automatically each Monday and ranked against the [interests](interests.html) that drive this digest. Scores are a language model's judgement from the title and abstract only,  so read them as triage and not as appraisal. 
 
@@ -7,199 +7,93 @@ New papers on Pediatric neurotrauma & concussion, neurocritical & hospital care 
 | Section | Kept | Threshold |
 |---|---:|---:|
 | Pediatric neurotrauma & concussion | 4 | ≥ 0.55 |
-| Neurocritical & hospital care outcomes | 9 | ≥ 0.58 |
-| Neuropsychological assessment & methods | 1 | ≥ 0.58 |
+| Neurocritical & hospital care outcomes | 4 | ≥ 0.58 |
+| Neuropsychological assessment & methods | 11 | ≥ 0.58 |
 | Adjacent developmental neuroscience | 5 | ≥ 0.65 |
 
-*19 kept from 280 scored, out of 662 gathered across 18 journal feeds and 7 PubMed queries in the last 7 days. Spanning 16 sources; 18 of 19 include an abstract.*
+*24 kept from 280 scored, out of 675 gathered across 18 journal feeds and 7 PubMed queries in the last 7 days. Spanning 20 sources; 17 of 24 include an abstract.*
 
 ---
 
 ## Pediatric neurotrauma & concussion
 
-### [Prognostic prediction model construction and validation based on regional cerebral oxygen saturation and bispectral index monitoring in pediatric traumatic brain injury.](https://pubmed.ncbi.nlm.nih.gov/42964286/)
+### [Individual Prognostication of Emergence From Posttraumatic Amnesia: A Nationwide Cohort Study](https://www.sciencedirect.com/science/article/pii/S0003999326008105?dgcid=rss_sd_all)
 
-*Front Neurosci (PubMed)* · **0.92** · 2026-10-16
+*Arch Phys Med Rehabil* · **0.70**
 
-`pediatric-TBI` `prognostic-model` `functional-outcome` `cerebral-monitoring`
+`PTA` `TBI` `prognostication` `cohort` `neuropsych`
 
-Prospective cohort of 93 children with moderate-severe TBI monitored with rScO₂ and BIS, integrating clinical and biomarker data to develop a 6-month functional outcome prediction model.
+Nationwide cohort study of individual prognostication of emergence from posttraumatic amnesia; relevant to TBI outcome, though pediatric applicability not specified.
 
-<details><summary>Abstract snippet</summary>
+### [Longitudinal Trajectories and Risk Factors for Post-traumatic Chronic Pain and Pruritus Following Burn Injuries: a Prospective Multicenter Cohort Study](https://www.sciencedirect.com/science/article/pii/S000399932600986X?dgcid=rss_sd_all)
 
-BACKGROUND: Continuous multimodal cerebral monitoring may improve detection and management of secondary injury after pediatric moderate-to-severe traumatic brain injury (msTBI). We developed and validated a prognostic model for 6-month functional outcome integrating regional cerebral oxygen saturation (rScO₂), bispectral index (BIS), clinical and biomarker data. METHODS: Prospective cohort of 93 children with msTBI monitored with rScO₂ and BIS (monitoring group) and a retrospective control…
+*Arch Phys Med Rehabil* · **0.65**
 
-</details>
+`burns` `trauma` `pain` `pruritus` `prospective`
 
-### [Cerebellar subregions support social cognition in early behavioural variant frontotemporal dementia.](https://pubmed.ncbi.nlm.nih.gov/42953980/)
+Prospective multicenter cohort study of post-traumatic chronic pain and pruritus following burn injuries.
 
-*Brain (PubMed)* · **0.72** · 2026-10-29
+### [Repeated Exposure to Military Low-Level Blast Is Associated With Regionally Specific Reductions in Gray Matter Volume in Breachers and Snipers.](https://pubmed.ncbi.nlm.nih.gov/42993589/)
 
-`disorders of consciousness` `resting-state fMRI` `prognostication` `acute brain injury`
+*J Head Trauma Rehabil (PubMed)* · **0.58** · 2026-11-06
 
-Resting-state fMRI after acute disorders of consciousness, a severe brain injury outcome, with systematic review methodology that could inform prognostication in pediatric TBI cohorts.
+`low-level blast` `TBI` `MRI` `neurocognitive`
 
-<details><summary>Abstract snippet</summary>
-
-Social cognitive deficits manifest early in behavioral variant frontotemporal dementia (bvFTD), compromising individuals' ability to interpret social cues, empathize, and maintain interpersonal relationships. Current neurobiological models emphasize cortical network disruption, particularly within the salience, semantic appraisal, and default mode networks, as primary contributors to social dysfunction. However, despite the increasingly recognized role of the cerebellum in higher-order…
-
-</details>
-
-### [Hospital mortality and discharge destination prediction after fall-related traumatic brain injury in older adults.](https://pubmed.ncbi.nlm.nih.gov/42952434/)
-
-*Brain Inj (PubMed)* · **0.60** · 2026-10-29
-
-`older-adults` `fall-TBI` `mortality` `discharge-destination` `prediction-model`
-
-Prediction model for older adults with fall-related TBI using data from 179,287 older adults, focusing on mortality and discharge destination rather than pediatric populations.
+MRI and neurocognitive data from Canadian Armed Forces breachers and snipers with repeated low-level blast exposure, examining regionally specific gray matter volume reductions.
 
 <details><summary>Abstract snippet</summary>
 
-OBJECTIVE: Develop prediction models to support care for older adults with fall-related traumatic brain injury (TBI). SUMMARY OF BACKGROUND: Fall-related TBI is a leading cause of hospitalization and death among older adults. Prognostication remains challenging in this population because frailty and comorbidity burden greatly influence recovery trajectories. Tailored prognostic models to support individualized patient care remain limited. PATIENTS AND METHODS: Data from 179,287 older adults…
+OBJECTIVE: To examine the association between duration of repeated exposure to low-level blast and alteration in brain structure. SETTING: Data were collected at 2 neuroimaging facilities. PARTICIPANTS: Canadian Armed Forces breachers (n = 30) and snipers (n = 31) with a history of repeated exposure to low-level blast (average years = 9.70, SD = 4.57) and sex- and age-matched active military controls (n = 57). DESIGN: MRI and neurocognitive data from breachers and snipers were collected…
 
 </details>
 
-### [Speeded motor training leads to fMRI changes during imagined hallway walking conditions in adults with traumatic brain injury.](https://pubmed.ncbi.nlm.nih.gov/42949281/)
+### [Point-of-Care Computer Vision for Postural Assessment in Brain Injury Rehabilitation](https://www.sciencedirect.com/science/article/pii/S0003999326009822?dgcid=rss_sd_all)
 
-*Brain Inj (PubMed)* · **0.58** · 2026-10-28
+*Arch Phys Med Rehabil* · **0.55**
 
-`chronic-TBI` `fMRI` `motor-training` `gait` `brain-plasticity`
+`brain injury` `computer vision` `postural assessment` `rehab` `POC`
 
-fMRI study of gait and imagined walking in 9 adults with chronic TBI during an 8-week rapid resisted elliptical training trial, examining motor and cognitive function alongside adaptive brain plasticity.
-
-<details><summary>Abstract snippet</summary>
-
-OBJECTIVE: Traumatic brain injury (TBI) often leads to persistent deficits in multiple functional domains. fMRI data were collected in an 8-week trial of rapid resisted elliptical training in ambulatory adults with chronic TBI to promote motor, cognitive and behavioral function and adaptive brain plasticity. PARTICIPANTS: Nine participants with chronic TBI and 9 uninjured adults were used for comparison of gait and fMRI data. MAIN MEASURES: Gait speed during treadmill walking down a…
-
-</details>
+Point-of-care computer vision for postural assessment in brain injury rehabilitation; objective assessment approach after brain injury, but not pediatric or neurocognitive test validation.
 
 ---
 
 ## Neurocritical & hospital care outcomes
 
-### [Gut Failure During Pediatric Critical Illness: Toward a Phenotype-Driven Framework for Early Recognition, Prognostication, and Prevention.](https://pubmed.ncbi.nlm.nih.gov/42940752/)
+### [Serial Amplitude-Integrated Electroencephalography and the Burdjalov Score in Preterm Infants: A Prospective Longitudinal Bedside Study in the Neonatal Care Unit](https://www.sciencedirect.com/science/article/pii/S0887899426003267?dgcid=rss_sd_all)
 
-*Children (Basel) (PubMed)* · **0.92** · 2026-10-19
+*Pediatric Neurology* · **0.85**
 
-`PICU` `gut failure` `critical illness` `prognostication`
+`EEG` `preterm` `AIEEG` `Burdjalov` `sedation`
 
-Proposes a phenotype-driven framework for early recognition, prognostication, and prevention of gut failure during pediatric critical illness, directly addressing acute-phase risk factors for downstream neurocognitive morbidity.
+Prospective longitudinal bedside study of serial amplitude-integrated EEG and Burdjalov score in preterm infants.
 
-<details><summary>Abstract snippet</summary>
+### [Association of Abnormal Cerebral Perfusion in Very Preterm Infants With Late-Onset Sepsis and Neurodevelopmental Outcomes at 2 Years of Age: A Prospective Cohort Study Using Arterial Spin Labeling](https://www.sciencedirect.com/science/article/pii/S0887899426002948?dgcid=rss_sd_all)
 
-Gastrointestinal dysfunction is common during critical illness, yet gut failure remains poorly defined, inconsistently diagnosed, and incompletely integrated into organ dysfunction frameworks. Current clinical approaches often recognize gut failure only after overt manifestations such as feeding intolerance, ileus, abdominal distension, gastrointestinal bleeding, or radiographic bowel injury have developed. However, these signs may represent late manifestations of distinct and potentially…
+*Pediatric Neurology* · **0.75**
 
-</details>
+`sepsis` `preterm` `neurodevelopmental` `prospective-cohort` `MRI`
 
-### [Clinical outcomes in mechanically ventilated patients in pediatric intensive care: A cohort study.](https://pubmed.ncbi.nlm.nih.gov/42937272/)
+Prospective cohort of very preterm infants with late-onset sepsis, using arterial spin labeling MRI to assess cerebral perfusion and reporting neurodevelopmental outcomes at 2 years of age.
 
-*Arch Argent Pediatr (PubMed)* · **0.88** · 2026-10-29
+### [The Short and Long View of Extracorporeal Membrane Oxygenation as a Bridge to Lung Transplant in Children.](https://pubmed.ncbi.nlm.nih.gov/42987182/)
 
-`PICU` `PARDS` `mechanical-ventilation` `acute-hypoxemia` `longitudinal-cohort`
+*Pediatr Crit Care Med (PubMed)* · **0.65** · 2026-09-15
 
-Prospective cohort study in a high-complexity PICU (June 2021-Aug 2022) characterizing ventilated patients with acute hypoxemic respiratory failure and PARDS, with patient-level outcomes.
+`ECMO` `pediatric` `critical care` `bridge to transplant` `long-term`
 
-<details><summary>Abstract snippet</summary>
+Title asks short and long view of extracorporeal membrane oxygenation as a bridge to lung transplant in children; pediatric critical care/ECMO, long-term perspective, though no cognitive outcome in supplied summary.
 
-Introduction. Mechanical ventilation (MV) is a common intensive care intervention associated with increased resource use and a risk of complications. Therefore, this study aimed to characterize ventilated patients with acute hypoxemic respiratory failure (AHRF) and pediatric acute respiratory distress syndrome (PARDS). Population and Methods. We conducted a prospective cohort study in the pediatric intensive care unit of a high-complexity hospital between June 2021 and August 2022. The study…
+### [A Family Census Evaluating Parental Presence and Activities at a Tertiary Surgical Neonatal Unit.](https://pubmed.ncbi.nlm.nih.gov/42975140/)
 
-</details>
+*Acta Paediatr (PubMed)* · **0.60** · 2026-11-03
 
-### [Closing the Gap Between Risk and Recognition: Improving Delirium Screening in the Pediatric Intensive Care Unit.](https://pubmed.ncbi.nlm.nih.gov/42953890/)
+`neonatal` `family` `parental presence` `FICare` `mental health`
 
-*Pediatr Qual Saf (PubMed)* · **0.85** · 2026-10-28
-
-`PICU-delirium` `screening-compliance` `CAPD` `quality-improvement` `pediatric-intensive-care`
-
-Improving delirium screening compliance in the Children's Hospital Colorado PICU using the Cornell Assessment of Pediatric Delirium (CAPD), addressing a known gap where compliance was <50%.
+Family census evaluated parental presence and activities in a tertiary surgical neonatal unit before Family Integrated Care; family functioning/mental health context, not neurocognitive outcome.
 
 <details><summary>Abstract snippet</summary>
 
-INTRODUCTION: Delirium occurs in 20%-40% of pediatric intensive care unit (PICU) patients and is associated with increased morbidity, mortality, healthcare expenditure, and long-term psychological consequences. Despite the implementation of delirium screening in the Children's Hospital Colorado PICU in 2019 using the Cornell Assessment of Pediatric Delirium (CAPD) screening tool, screening compliance remained <50%. This project aimed to improve delirium screening compliance in the Children's…
-
-</details>
-
-### [Procalcitonin and C-Reactive Protein Are Elevated at the Threshold of Cortical Electrocerebral Silence but Do Not Track Graded EEG Severity in Critically Ill Children: A Single-Centre Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42939266/)
-
-*Brain Sci (PubMed)* · **0.78** · 2026-09-24
-
-`critical-illness` `biomarker` `EEG` `PICU` `inflammatory-markers`
-
-Single-centre retrospective cohort of 97 critically ill children from the PICU in Romania (Nov 2022-Feb 2026) examining associations between procalcitonin, CRP, and EEG severity thresholds.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: The relationship between routine inflammatory biomarkers and EEG severity in critically ill children, evaluated using visual (Synek) grading and spectral qEEG, remains unclear. The aim of our study was to examine the associations between procalcitonin (PCT), C-reactive protein (CRP) and EEG severity. METHODS: Single-centre retrospective cohort of 97 critically ill children were analysed (PICU, Romania; November 2022-February 2026), each contributing one EEG with an inflammatory…
-
-</details>
-
-### [A Decade Long Retrospective Cohort Study on Risk Factors and Clinical Outcomes of Carbapenem Resistant Gram-Negative Infections in A Pediatric Intensive Care Unit.](https://pubmed.ncbi.nlm.nih.gov/42957971/)
-
-*J Intensive Care Med (PubMed)* · **0.76** · 2026-10-29
-
-`PICU` `sepsis` `Gram-negative` `risk-factors` `retrospective-cohort`
-
-10-year retrospective cohort (2015-2024) in a tertiary PICU including 380 patients aged 1 month-18 years with Gram-negative infections, identifying independent risk factors and clinical outcomes.
-
-<details><summary>Abstract snippet</summary>
-
-BackgroundCarbapenem-resistant Gram-negative (CRGN) infections are a critical global health threat, particularly in pediatric intensive care units (PICUs). This study aimed to identify independent risk factors and clinical outcomes associated with CRGN infections in critically ill children.MethodsA 10-year (2015-2024) retrospective cohort study was conducted in a tertiary PICU, including 380 patients (aged 1 month-18 years) with Gram-negative infections. Patients were stratified into CRGN (n =…
-
-</details>
-
-### [Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial.](https://pubmed.ncbi.nlm.nih.gov/42956771/)
-
-*Lancet (PubMed)* · **0.74** · 2026-10-01
-
-`PARDS` `prone-positioning` `HFOV` `RCT` `international-multi-site`
-
-International, two-by-two factorial, response-adaptive phase 3 RCT of prone positioning vs supine positioning and HFOV vs conventional ventilation in early moderate-to-severe PARDS, measuring ventilator-free days.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: Data on prone positioning and high-frequency oscillatory ventilation (HFOV) used separately or in combination in patients with paediatric acute respiratory distress syndrome (PARDS) are inconclusive, leading to wide practice variability. We aimed to compare the effects of prone positioning with supine positioning and the effects of HFOV with conventional mechanical ventilation on ventilator-free days in children with early, moderate-to-severe PARDS. METHODS: PROSpect was an…
-
-</details>
-
-### [Undertriage of Pediatric Major Trauma at a Spanish Pediatric Trauma Center: A 10-Year Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42940728/)
-
-*Children (Basel) (PubMed)* · **0.68** · 2026-10-15
-
-`pediatric-trauma` `undertriage` `PICU` `trauma-system` `retrospective-cohort`
-
-Retrospective cohort (2016-2025) of children aged 0-14 years admitted to the PICU at a Spanish pediatric trauma center, estimating major trauma undertriage rates and their relationship to early clinical outcomes.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: Accurate field triage is a cornerstone of an inclusive trauma system, but pediatric undertriage remains poorly characterized outside North America. We aimed to estimate the rate of major trauma undertriage in a Spanish pediatric trauma center, to identify patient factors associated with it, and to explore its relationship with early clinical outcomes. METHODS: Retrospective cohort study (2016-2025) of children aged 0-14 years admitted to the pediatric intensive care unit (PICU) of…
-
-</details>
-
-### [Reducing Serious Hospital-acquired Pressure Injuries in Pediatric Intensive Care Units through Proactive Interdisciplinary Rounding.](https://pubmed.ncbi.nlm.nih.gov/42953593/)
-
-*Pediatr Qual Saf (PubMed)* · **0.66** · 2026-10-28
-
-`PICU` `pressure-injuries` `quality-improvement` `interdisciplinary-rounding` `hospital-acquired`
-
-Interdisciplinary rounding intervention to reduce serious hospital-acquired pressure injuries in PICUs, addressing immobility, complex comorbidities, and frequent device use as risk factors.
-
-<details><summary>Abstract snippet</summary>
-
-INTRODUCTION: Hospital-acquired pressure injuries (HAPIs) contribute to significant morbidity, prolonged hospitalization, and increased healthcare costs in pediatric intensive care units (PICUs). Critically ill children are at increased risk due to immobility, complex comorbidities, and frequent use of medical devices. Despite stable rates of adherence to prevention bundles, an increase in serious HAPIs (sHAPIs)-defined as stage 3, stage 4, or unstageable injuries-was observed at our…
-
-</details>
-
-### [Dexmedetomidine Versus Dexamethasone in Pediatric Cardiac Surgery with Cardiopulmonary Bypass: An Exploratory Randomized Controlled Trial of Inflammatory Biomarkers and Opioid Consumption.](https://pubmed.ncbi.nlm.nih.gov/42940513/)
-
-*Healthcare (Basel) (PubMed)* · **0.58** · 2026-10-15
-
-`cardiac surgery` `CPB` `dexmedetomidine` `inflammatory biomarkers`
-
-Randomized controlled trial comparing dexmedetomidine versus dexamethasone inflammatory biomarkers and opioid consumption in pediatric cardiac surgery with cardiopulmonary bypass, addressing acute neurotoxicity risk factors during critical illness.
-
-<details><summary>Abstract snippet</summary>
-
-Background/Objectives: Cardiopulmonary bypass (CPB) triggers a systemic inflammatory response in children undergoing congenital heart surgery. Although dexmedetomidine has been proposed as an alternative to corticosteroids, the two agents have not previously been directly compared in a pediatric randomized trial. This study aimed to compare the effects of dexmedetomidine and dexamethasone on inflammatory biomarkers and analgesic outcomes in children undergoing congenital heart surgery with CPB.…
+AIMS: Neonatal unit (NNU) admission can adversely affect parental confidence, breastfeeding, attachment and mental health. Family Integrated Care (FICare) promotes parents as primary caregivers and may improve outcomes. METHODS: To establish baseline practice before FICare, a 14-day parental presence census was conducted in a tertiary surgical NNU in South London. Parents self-recorded presence and activities. Analyses characterised presence and engagement by infant and care characteristics.…
 
 </details>
 
@@ -207,85 +101,225 @@ Background/Objectives: Cardiopulmonary bypass (CPB) triggers a systemic inflamma
 
 ## Neuropsychological assessment & methods
 
-### [Measurement Characteristics and Clinical Utility of the Contextual Memory Test Among Children & Adults with Memory Impairment](https://www.sciencedirect.com/science/article/pii/S0003999325011359?dgcid=rss_sd_all)
+### [ERP markers of language processing difficulties in extremely preterm children at 6-9 years of age.](https://pubmed.ncbi.nlm.nih.gov/43000778/)
 
-*Arch Phys Med Rehabil* · **0.65**
+*Child Neuropsychol (PubMed)* · **0.90** · 2026-11-08
 
-`memory test` `validation` `psychometrics` `pediatric` `memory impairment`
+`extremely preterm` `ERP` `language processing` `neurocognitive`
 
-Validation study of the Contextual Memory Test in children and adults with memory impairment, reporting measurement characteristics and clinical utility.
+The prospective study examines event‑related potentials in extremely preterm children aged 6‑9 years, using objective ERP markers to assess language processing difficulties.
+
+<details><summary>Abstract snippet</summary>
+
+Advances in neonatal care have substantially reduced mortality among extremely preterm children (≤1,500 g at birth), although survivors remain at increased risk for neurodevelopmental vulnerabilities. This study examined event-related potentials (ERPs) associated with print processing and language-related functions in extremely preterm children at school age. Twenty-six extremely preterm children completed a same/different distractor task involving graphical symbols, illegal letter strings,…
+
+</details>
+
+### [Cross-cultural adaptation and validation of the intelligibility in context scale for Azerbaijani Turkish-speaking children.](https://pubmed.ncbi.nlm.nih.gov/42973375/)
+
+*Appl Neuropsychol Child (PubMed)* · **0.85** · 2026-11-03
+
+`ICS-AZ` `cross-cultural` `pediatric` `psychometrics`
+
+Cross-cultural adaptation and validation of the Intelligibility in Context Scale (ICS-AZ) for Azerbaijani Turkish-speaking children, including 180 children aged 3-5 years with and without speech sound disorders, assessing psychometric properties.
+
+<details><summary>Abstract snippet</summary>
+
+This study aimed to cross-culturally adapt the Intelligibility in Context Scale (ICS) into Azerbaijani Turkish (ICS-AZ) and evaluate its psychometric properties. Following forward-backward translation and expert review (n = 13 SLPs), the ICS-AZ was completed by parents of 180 children (3-5 years: 40 with speech sound disorders (SSD) and 140 typically developing (TD) peers). Assessments included Percentage of Consonant Correct (PCC), Phonological Mean Length of Utterance (PMLU), Whole-Word…
+
+</details>
+
+### [Evaluation of A Modified Persian Version of the Developmental Eye Movement Test in Children.](https://pubmed.ncbi.nlm.nih.gov/42985380/)
+
+*J Ophthalmic Vis Res (PubMed)* · **0.85** · 2026-10-14
+
+`DEM` `Persian adaptation` `pediatric` `normative`
+
+Adaptation and evaluation of the Developmental Eye Movement (DEM) test in Persian for 720 Iranian children aged 7-12 years, comparing performance with American normative samples to identify linguistic and cultural influences.
+
+<details><summary>Abstract snippet</summary>
+
+PURPOSE: To adapt and evaluate the Developmental Eye Movement (DEM) test in Persian for Iranian children aged 7-12 years, to evaluate developmental changes across ages, and to compare performance with the American normative sample to identify potential linguistic and cultural influences on oculomotor behavior. METHODS: The DEM test was developed by translating the original numbers into Persian numerals. Awe enrolled a sample of 720 Iranian children aged 7-12 years utilizing a stratified random…
+
+</details>
+
+### [Parent-Reported Child Mania Rating Scale: Reliability, Validity, and Norms in a Nationally Representative US Sample.](https://pubmed.ncbi.nlm.nih.gov/42999279/)
+
+*medRxiv (PubMed)* · **0.85** · 2026-10-13
+
+`CMRS-P` `norms` `pediatric` `psychometrics`
+
+Psychometric evaluation of the Parent-Reported Child Mania Rating Scale (CMRS-P) in a nationally representative U.S. sample of 2,229 youth aged 6-18 years, providing age-and sex-specific norms and factor structure.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVE: To evaluate the psychometric properties, factor structure, validity, and age-and sex-specific norms of the 21-and 10-item parent-report Child Mania Rating Scale (CMRS-P) in a nationally representative U.S. sample of youth aged 6-18 years. METHOD: Parents of 2,229 youth aged 6-18 years [weighted M ( SD )=12.0(3.3) years; 45.9% female] completed the CMRS-P and related measures between July 2025 and March 2026. Data were weighted to represent U.S. demographics. A clinical comparison…
+
+</details>
+
+### [Psychometric validation of the persian short form of the physical literacy in children questionnaire in Iranian children aged 4-12 years: factorial validity, internal consistency, and gender-based measurement invariance.](https://pubmed.ncbi.nlm.nih.gov/42968055/)
+
+*BMC Pediatr (PubMed)* · **0.80** · 2026-08-03
+
+`PL-C Quest` `measurement invariance` `pediatric` `psychometrics`
+
+Psychometric validation of the Persian short form of the Physical Literacy in Children Questionnaire in Iranian children aged 4-12 years, examining factorial validity, internal consistency, and gender-based measurement invariance.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVES: The Physical Literacy (PL) in Children Questionnaire (PL-C Quest) is a 30-item pictorial instrument assessing children's PL across four domains. A 12-item short form has recently been developed; however, its psychometric properties have not been examined in Persian-speaking populations. This study evaluated the factorial validity, internal consistency, and measurement invariance of the Persian short form in Iranian children. DESIGN: Pooled cross-sectional. METHODS: Data from two…
+
+</details>
+
+### [Validity and reliability of the Turkish adaptation of the diagnostic interview for anxiety, mood, and OCD and related neuropsychiatric disorders: child and adolescent version (DIAMOND-KID).](https://pubmed.ncbi.nlm.nih.gov/42972518/)
+
+*BMC Psychiatry (PubMed)* · **0.75** · 2026-09-11
+
+`DIAMOND-KID` `psychometrics` `cross-cultural` `pediatric`
+
+Psychometric validation of the Turkish adaptation of DIAMOND-KID, a DSM-5-based diagnostic interview for psychiatric disorders in children and adolescents aged 6-18, examining cross-cultural reliability and validity.
+
+<details><summary>Abstract snippet</summary>
+
+BACKGROUND: The Diagnostic Interview for Anxiety, Mood, and OCD and Related Neuropsychiatric Disorders: Child and Adolescent Version (DIAMOND-KID) is a DSM-5-based semi-structured diagnostic interview for the assessment of psychiatric disorders in children and adolescents aged 6-18 years. Despite its broad diagnostic coverage, evidence regarding the psychometric properties of the DIAMOND-KID across different cultural and linguistic contexts remains limited. This study aimed to examine the…
+
+</details>
+
+### [Development and Psychometric Validation of the Korean Version of the Velopharyngeal Insufficiency Effects on Life Outcomes.](https://pubmed.ncbi.nlm.nih.gov/42978365/)
+
+*Cleft Palate Craniofac J (PubMed)* · **0.75** · 2026-11-03
+
+`K-VELO` `velopharyngeal insufficiency` `pediatric` `psychometrics`
+
+Psychometric validation of the Korean version of the Velopharyngeal Insufficiency Effects on Life Outcomes (K-VELO) for 74 children with cleft palate, assessing reliability and validity in a clinical sample.
+
+<details><summary>Abstract snippet</summary>
+
+ObjectiveTo develop and validate a culturally adapted Korean version of the Velopharyngeal Insufficiency Effects on Life Outcomes (K-VELO) for children with cleft palate with or without cleft lip (CP ± L).DesignMethodological study including linguistic validation and psychometric evaluation.Setting: Tertiary cleft centers in South Korea.Participants: A total of 74 children and 78 parents completed the K-VELO; 72 children and 62 parents also completed perceptual speech evaluations. For…
+
+</details>
+
+### [Giving young patients with ADPKD a voice: preliminary validation of the 'Symptom and impact scale for adolescents with autosomal dominant polycystic kidney disease' (SAIL-ADPKD).](https://pubmed.ncbi.nlm.nih.gov/42975662/)
+
+*Pediatr Nephrol (PubMed)* · **0.75** · 2026-11-03
+
+`PROM` `validation` `ADPKD` `pediatric` `QoL`
+
+Preliminary validation of the Symptom and impact scale for adolescents with ADPKD (SAIL-ADPKD), an age-appropriate questionnaire on pain, impact, symptoms, and worries; relevant to adapting functional outcome measures and QoL for medically complex pediatric populations.
+
+<details><summary>Abstract snippet</summary>
+
+BACKGROUND: Unpredictable pain and reduced quality of life are common in adults with autosomal dominant polycystic kidney disease (ADPKD) and occur even before gross kidney enlargement or markedly decreased kidney function. Very little is known about pain in adolescents with ADPKD, and there are no patient-reported outcome measures (PROMs) in youth. METHODS: An age-appropriate questionnaire on pain, impact, symptoms, and worries was created by pediatric nephrologists, clinical psychologists,…
+
+</details>
+
+### [Psychometric Properties of the Persian Version of the Handwriting Proficiency Screening Questionnaire in Iranian Primary School Students in Grades 2 and 3.](https://pubmed.ncbi.nlm.nih.gov/42968777/)
+
+*Health Promot Perspect (PubMed)* · **0.72** · 2026-08-21
+
+`HPSQ` `handwriting` `pediatric` `psychometrics`
+
+Psychometric evaluation of the Persian version of the Handwriting Proficiency Screening Questionnaire (HPSQ) in 203 Iranian primary school students in grades 2 and 3, assessing factorial validity and internal consistency.
+
+<details><summary>Abstract snippet</summary>
+
+INTRODUCTION: Handwriting difficulties are prevalent among primary school children and can adversely affect academic achievement, self-confidence, and overall school participation. This study aimed to evaluate the psychometric properties of the Persian version of the Handwriting Proficiency Screening Questionnaire (HPSQ) in Iranian second- and third-grade students. METHODS: This methodological study was conducted in primary schools in Tabriz, Iran. A total of 203 typically developing students…
+
+</details>
+
+### [Empirical development of the Volitional Apathy Scale: A brief measure of behavioral initiation and maintenance.](https://pubmed.ncbi.nlm.nih.gov/43002523/)
+
+*Neuropsychology (PubMed)* · **0.68** · 2026-11-09
+
+`apathy` `behavioral measure` `psychometrics`
+
+The study develops and validates a brief behavioral measure of apathy, a psychometric tool relevant for assessing neurocognitive and emotional symptoms in children with brain injury.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVE: Apathy, a clinical symptom commonly found in many brain conditions, is characterized by quantitative reductions in goal-directed behavior. Although apathy is widely conceptualized as multidimensional, existing measures vary in how its behavioral aspect is operationalized, limiting precision in the assessment of initiation and maintenance of goal-directed behavior. This study aimed to develop and validate a brief, behaviorally specific measure of apathy that addresses this…
+
+</details>
+
+### [Longitudinal Participation and Cognitive Score Interpretation in the J-TRC Webstudy](https://www.medrxiv.org/content/10.64898/2026.11.06.26367280v1?rss=1)
+
+*medRxiv Neurology* · **0.65** · 2026-11-06
+
+`web study` `cognitive scores` `retest` `participation` `assessment`
+
+Longitudinal study of web-based cognitive assessment participation and retest-dependent score interpretation in J-TRC Webstudy.
+
+<details><summary>Abstract snippet</summary>
+
+INTRODUCTION: Web-based registries support remote cognitive assessment for Alzheimer's disease research, but participant-driven reassessment raises questions about long-term data yield and interpretation of repeated scores. We evaluated data contribution, selective observation, and retest-dependent estimates of cognitive change in the Japanese Trial-Ready Cohort (J-TRC) Webstudy. METHODS: We analyzed over six years of J-TRC Webstudy data (launched October 2019; registrations through March 31,…
+
+</details>
 
 ---
 
 ## Adjacent developmental neuroscience
 
-### [Parental stress and parent-child dyadic outcomes in preterm populations: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42969315/)
+### [Pre- and postnatal environmental lithium exposure and adolescent neurodevelopment: a tooth-biomarker study](https://www.medrxiv.org/content/10.64898/2026.11.06.26367460v1?rss=1)
 
-*J Pediatr Psychol (PubMed)* · **0.78** · 2026-11-02
+*medRxiv Pediatrics* · **0.75** · 2026-11-09
 
-`preterm` `parental stress` `family functioning` `meta-analysis`
+`lithium exposure` `ABD cohort` `neurodevelopment` `tooth biomarker`
 
-Systematic review and meta-analysis of parental stress and parent-child dyadic outcomes in preterm populations, addressing family functioning cascading effects relevant to PICU survivorship but not neurocognitive assessment itself.
+Tooth-biomarker study mapping prenatal and early postnatal environmental lithium exposure in 448 U.S. youth from the Adolescent Brain Cognitive Development cohort, assessing adolescent neurodevelopment.
 
 <details><summary>Abstract snippet</summary>
 
-OBJECTIVE: Despite established theoretical links between parental stress and parent-child dyadic functioning, no systematic review has examined these associations in preterm samples. We conducted a systematic review and meta-analysis on associations between parental stress and dyadic outcomes across the first year of life with preterm parent-child dyads. METHODS: Four databases were searched through May 2026 (INPLASY #2025110019). Eligible studies assessed parental stress and parent-child…
+Lithium is a naturally occurring element found in drinking water, and its environmental presence is rising with demand for batteries. Yet evidence on lithium comes almost entirely from adults, ecological studies, or medical treatment, leaving the effects of prenatal and early postnatal environmental exposure unknown. We laser-mapped lithium in shed baby teeth, which preserve a record of exposure around birth (-12 to +13 weeks), from 448 U.S. youth in the Adolescent Brain Cognitive Development…
 
 </details>
 
-### [Functional Connectivity at Birth and Longitudinal Neurocognitive Development in Very Preterm Infants.](https://pubmed.ncbi.nlm.nih.gov/42970289/)
+### [Pediatric portal venous dimensions: a computed tomography-based normative study utilizing multiplanar reformation.](https://pubmed.ncbi.nlm.nih.gov/42980799/)
 
-*JAMA Netw Open (PubMed)* · **0.70** · 2026-11-02
+*Pediatr Radiol (PubMed)* · **0.72** · 2026-11-04
 
-`very preterm` `functional connectivity` `neuroimaging` `longitudinal` `neurocognitive development`
+`portal vein` `normative data` `CT` `pediatric`
 
-Prospective cohort of infants born very preterm at gestational age 32 weeks or less, associating functional connectivity at birth with cognitive performance at ages 2 and 3 years.
+CT-based normative study establishing reference values for the portal venous system in children and adolescents, utilizing axial and multiplanar reformation measurements.
 
 <details><summary>Abstract snippet</summary>
 
-IMPORTANCE: Understanding how neonatal functional connectivity at birth is associated with later cognitive performance in infants born very preterm (VPT) may help identify early neuroimaging markers of neurodevelopment. OBJECTIVE: To examine the associations between functional connectivity at birth and cognitive performance at age 2 and 3 years in children born VPT. DESIGN, SETTING, AND PARTICIPANTS: This prospective cohort study included infants born VPT (gestational age ≤32 weeks) from 5…
+BACKGROUND: Paediatric portal vein reference values are derived almost exclusively from ultrasound, which systematically yields smaller measurements than CT. CT-specific normative data for children are limited to a single study that did not include multiplanar reformation (MPR) measurements, splenic vein data, or comprehensive anthropometric analysis. OBJECTIVE: To establish CT-based reference values for the portal venous system in children and adolescents, including both axial and MPR…
 
 </details>
 
-### [Functional Connectivity at Birth and Neurocognitive Development](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856145)
+### [Asymptomatic congenital CMV infection: long-term cognitive outcome and brain imaging findings](https://www.sciencedirect.com/science/article/pii/S1090379826001194?dgcid=rss_sd_all)
 
-*JAMA Network Open* · **0.70** · 2026-11-02
+*Eur J Paediatric Neurology* · **0.70**
 
-`very preterm` `functional connectivity` `neurocognitive development` `cohort` `birth`
+`CMV` `long-term cognitive outcome` `brain imaging` `pediatric`
 
-Cohort study examining the association between functional connectivity at birth and cognitive performance at ages 2 and 3 years among children born very preterm.
+Long-term cognitive outcome and brain imaging findings in asymptomatic congenital CMV infection; directly addresses cognitive outcome in pediatric population, though not critical illness.
+
+### [Optimized phase-targeted auditory stimulation reduces nocturnal spikes in childhood epilepsies](https://www.medrxiv.org/content/10.64898/2026.11.06.26367251v1?rss=1)
+
+*medRxiv Neurology* · **0.68** · 2026-11-06
+
+`epilepsy` `auditory stimulation` `cognitive impairment`
+
+The study evaluates phase‑targeted auditory stimulation to reduce epileptic spikes in children, which are linked to long‑term cognitive impairment.
 
 <details><summary>Abstract snippet</summary>
 
-This cohort study examines the association between functional connectivity at birth and cognitive performance at age 2 and 3 years among children born very preterm.
+Interictal epileptiform discharges, so called spikes, are often strongly activated during non-rapid eye movement (NREM) sleep in childhood epilepsies. In children with pronounced spike activation during NREM - sleep, spike burden can be associated with lifelong impaired cognitive functions. This spike activation is also related to alterations in sleep oscillations, specifically slow waves and spindles, which play essential roles in brain maintenance and maturation. These observations suggest…
 
 </details>
 
-### [PedDx: An End-to-End Deep Learning Framework for Pediatric Posterior Fossa Tumor Diagnosis with Agentic AI-Enabled Independent External Evaluation](https://www.medrxiv.org/content/10.64898/2026.10.27.26366616v1?rss=1)
+### [The Listening and Spoken Language Development in Deaf and Hard of Hearing Children in Early Intervention.](https://pubmed.ncbi.nlm.nih.gov/42993011/)
 
-*medRxiv Pediatrics* · **0.68** · 2026-10-29
+*J Speech Lang Hear Res (PubMed)* · **0.65** · 2026-11-06
 
-`pediatric neuroimaging` `deep learning` `MRI` `diagnostic AI`
+`developmental` `language` `early intervention` `longitudinal` `hearing`
 
-Deep learning framework for pediatric posterior fossa tumor diagnosis using MRI, a developmental neuroscience application that informs pediatric neurology without fitting the core PICS-p or neuropsychological assessment focus.
-
-<details><summary>Abstract snippet</summary>
-
-Reliable clinical translation of diagnostic artificial intelligence (AI) requires evaluation beyond classification accuracy. We developed PedDx, a segmentation-free framework for pediatric posterior fossa tumor diagnosis using T2-weighted MRI, pretrained 3DINO representations, calibrated predictions, and confidence-based abstention. Evaluation included 492 discovery, 114 replication, 129 external validation, and 40 independently tested cases, alongside 236 out-of-distribution (OOD) cases and…
-
-</details>
-
-### [Innovative Opportunities to Reduce Risky Firearm Behaviors](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854072)
-
-*JAMA Pediatrics* · **0.66** · 2026-11-01
-
-`adolescent firearm violence` `mental health intervention` `risky behavior`
-
-Evaluates an intervention to reduce risky firearm behaviors in adolescents, addressing mental health morbidity in youth but outside the scope of pediatric neuropsychological assessment or critical illness survivorship.
+Longitudinal study of 322 deaf and hard of hearing children examined listening and spoken language development, using the Functional Listening Index-Paediatric and standardized language scores.
 
 <details><summary>Abstract snippet</summary>
 
-Firearms are the leading cause of death among adolescent and young adults (AYAs). The impact of firearm violence extends far beyond fatalities, with significant physical and mental health effects among individuals, families, and communities. An entire ecosystem of solutions to reduce morbidity and mortality is urgently needed. The study by Carter and colleagues provides an important contribution by evaluating the impact of a novel intervention focused on decreasing risky firearm behaviors…
+PURPOSE: This longitudinal study examined the development of listening and spoken language skills in 322 deaf and hard of hearing children who participated in a multidisciplinary early intervention program. METHOD: Listening skill acquisition was assessed using the Functional Listening Index-Paediatric (3,911 assessments) in children from 0 to 6 years of age accessing the program between 2011 and 2022 and was analyzed against standardized language scores (1,015 assessments) measured using the…
 
 </details>
 
