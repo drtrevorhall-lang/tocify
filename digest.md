@@ -1,91 +1,41 @@
-# Weekly ToC Digest, week of 2026-11-17
+# Weekly ToC Digest, week of 2026-11-24
 
 New papers on Pediatric neurotrauma & concussion, neurocritical & hospital care outcomes, and neuropsychological assessment & methods, scanned automatically each Monday and ranked against the [interests](interests.html) that drive this digest. Scores are a language model's judgement from the title and abstract only,  so read them as triage and not as appraisal. 
 
 | Section | Kept | Threshold |
 |---|---:|---:|
-| Pediatric neurotrauma & concussion | 7 | ≥ 0.55 |
-| Neurocritical & hospital care outcomes | 3 | ≥ 0.58 |
-| Neuropsychological assessment & methods | 5 | ≥ 0.58 |
-| Adjacent developmental neuroscience | 4 | ≥ 0.65 |
+| Pediatric neurotrauma & concussion | 14 | ≥ 0.55 |
+| Neurocritical & hospital care outcomes | 2 | ≥ 0.58 |
+| Neuropsychological assessment & methods | 7 | ≥ 0.58 |
+| Adjacent developmental neuroscience | 2 | ≥ 0.65 |
 
-*19 kept from 280 scored, out of 667 gathered across 18 journal feeds and 7 PubMed queries in the last 7 days. Spanning 16 sources; 14 of 19 include an abstract.*
+*25 kept from 280 scored, out of 652 gathered across 18 journal feeds and 7 PubMed queries in the last 7 days. Spanning 17 sources; 22 of 25 include an abstract.*
 
 ---
 
 ## Pediatric neurotrauma & concussion
 
-### [Acute Emotional Symptoms Predict Emotional Functioning up to 6 Months after Pediatric Concussion: An A-CAP Study](https://www.sciencedirect.com/science/article/pii/S0022347626003392?dgcid=rss_sd_all)
+### [Cognitive Trajectories After Traumatic Brain Injury: A NIDILRR TBI Model Systems National Database Study.](https://pubmed.ncbi.nlm.nih.gov/43043761/)
 
-*J Pediatrics* · **0.75**
+*J Head Trauma Rehabil (PubMed)* · **0.84** · 2026-11-16
 
-`pediatric-concussion` `emotional-functioning` `longitudinal` `A-CAP` `prediction`
+`TBI` `cognitive trajectory` `longitudinal` `NIDILRR` `neuropsychology`
 
-A-CAP prospective cohort study shows acute emotional symptoms predict emotional functioning at 6 months post-concussion in children; pediatric sample, longitudinal, emotional outcomes.
-
-### [Trajectories of post-traumatic stress symptoms following traumatic injury: a secondary analysis of the recovery after stress treatment randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/43024782/)
-
-*J Pediatr Psychol (PubMed)* · **0.72** · 2026-11-13
-
-`PTSD trajectories` `traumatic injury` `pediatric` `multisite RCT` `longitudinal`
-
-Secondary analysis of a multisite RCT characterizing post-traumatic stress symptom recovery trajectories in children aged 8-17 hospitalized after traumatic injuries, identifying factors associated with trajectory membership. Longitudinal, pediatric, mental health outcome.
+Longitudinal NIDILRR TBI Model Systems National Database substudy of 897 individuals who underwent inpatient rehabilitation for TBI identified cognitive trajectories from years 2-5 and 5-10 postinjury and predictors.
 
 <details><summary>Abstract snippet</summary>
 
-OBJECTIVE: To characterize heterogeneous post-traumatic stress (PTSS) recovery trajectories following pediatric traumatic injuries and identify clinical and psychological factors associated with trajectory membership. METHODS: Secondary analyses of a two-arm multisite randomized controlled trial comparing a brief online trauma-focused treatment [Reducing Stress after Trauma (ReSeT)] to usual care. Participants included children, ages 8-17, hospitalized following traumatic injuries and reporting…
-
-</details>
-
-### [Developmentally Informed Neuropsychological Care Following Pediatric Traumatic Brain Injury: Implications for Rehabilitation Medicine.](https://pubmed.ncbi.nlm.nih.gov/43025911/)
-
-*Phys Med Rehabil Clin N Am (PubMed)* · **0.65** · 2026-09-17
-
-`pediatric-TBI` `neuropsychological-assessment` `development` `rehabilitation`
-
-Article outlines developmentally informed neuropsychological evaluation strategies for pediatric complicated mild to severe TBI across early childhood to adolescence, addressing cognitive, emotional, and behavioral domains; likely a review but directly relevant to pediatric neuropsychological assessment after TBI.
-
-<details><summary>Abstract snippet</summary>
-
-Neuropsychological evaluations promote emotional well-being and independence following pediatric complicated mild to severe traumatic brain injury. In early childhood, assessments target emerging cognitive, emotional, and behavioral regulation skills while considering family-level contextual factors to guide intervention. In middle childhood, increasing academic and social demands highlight challenges in attention, executive functioning, and emotional adjustment, informing therapies and…
-
-</details>
-
-### [Effect of Social Determinants of Health on Pediatric Traumatic Brain Injury Phenotypes: Retrospective Cohort Analysis.](https://pubmed.ncbi.nlm.nih.gov/43019543/)
-
-*JMIR Pediatr Parent (PubMed)* · **0.65** · 2026-11-12
-
-`pediatric-TBI` `SDoH` `recovery` `retrospective` `equity`
-
-Retrospective cohort analysis investigates how social determinants of health influence TBI phenotypes and recovery trajectories in children; pediatric sample, addresses equity, but retrospective and no standardized neuropsychological battery described.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: Traumatic brain injury (TBI) in children disrupts cognitive, physical, and emotional functioning, posing a significant public health challenge in the United States. Recovery after pediatric TBI is nonlinear, influenced not only by fluctuations in progress but also by social determinants of health (SDoH), including sociodemographic features and health care access. OBJECTIVE: This study investigates how SDoH influence TBI phenotypes and associated recovery trajectories. Our…
-
-</details>
-
-### [Feasibility of Using Consumer-Grade Wearables Among Adolescents Presenting for Specialty Concussion Care: Prospective Longitudinal Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/43007700/)
-
-*JMIR Pediatr Parent (PubMed)* · **0.60** · 2026-11-10
-
-`concussion` `adolescents` `wearables` `feasibility` `longitudinal`
-
-Prospective longitudinal cohort of adolescents presenting for specialty concussion care tests feasibility of Fitbit wearables for physical activity, sleep, and physiologic response; pediatric sample but focuses on wearable adherence not neurocognitive outcomes.
-
-<details><summary>Abstract snippet</summary>
-
-BACKGROUND: Autonomic dysfunction is common after concussion and may be compounded by inactivity. Accordingly, physical activity progression is an important component of concussion rehabilitation. Fitbit devices can provide objective longitudinal data on physical activity, physiologic response to activity, and sleep. However, participants must have adequate adherence to device wear to provide accurate data. The threshold for adequate adherence may change based on the research question, making…
+OBJECTIVES: To identify subgroups of individuals with traumatic brain injury (TBI) who follow distinct trajectories of cognitive performance from years 2-5 and 5-10 postinjury, and to identify demographic, injury, and health-related predictors of cognitive trajectories. SETTING: Ten TBI Model Systems Centers. PARTICIPANTS: Eight hundred ninety seven individuals who underwent inpatient rehabilitation for TBI enrolled in a longitudinal TBI Model Systems substudy. Two separate cohorts were…
 
 </details>
 
 ### [Pediatric Traumatic Brain Injury Across Resource Settings: A Comparative Analysis of Presentation and Outcomes at Two Centers in the United States and Uganda.](https://pubmed.ncbi.nlm.nih.gov/43036359/)
 
-*Neurotrauma Rep (PubMed)* · **0.55** · 2026-10-07
+*Neurotrauma Rep (PubMed)* · **0.65** · 2026-10-07
 
-`pediatric-TBI` `global-health` `retrospective` `outcomes`
+`pediatric TBI` `comparative` `outcomes` `LMIC` `retrospective`
 
-Retrospective dual-cohort study compares pediatric TBI presentation, management, and outcomes between a US tertiary center and a Ugandan center; includes outcomes but not specifically neurocognitive or longitudinal follow-up.
+Retrospective dual-cohort study compared pediatric TBI presentation, management, and outcomes at US and Uganda centers using National Trauma Data Bank.
 
 <details><summary>Abstract snippet</summary>
 
@@ -93,51 +43,185 @@ Traumatic brain injury (TBI) affects thousands of children worldwide and remains
 
 </details>
 
+### [The role of visual and vestibular disturbances in predicting four-week recovery following acute concussion: a cohort study by sex (from the Toronto concussion study).](https://pubmed.ncbi.nlm.nih.gov/43069748/)
+
+*Brain Inj (PubMed)* · **0.65** · 2026-11-23
+
+`concussion` `recovery` `vestibular` `prospective cohort` `sex differences`
+
+Prospective longitudinal study of 122 adults with concussion assessed visual and vestibular disturbances within one week and at four weeks and examined recovery.
+
+<details><summary>Abstract snippet</summary>
+
+BACKGROUND: Visual and vestibular disturbances (VVD) are common following concussion, but their relationship with recovery and potential sex differences remains unclear. OBJECTIVE: To examine the relationship between early VVD and four-week recovery overall and by sex in community-dwelling adults. METHODS: This prospective longitudinal study included 122 adults (mean age 36.6 years; 64.6% female) assessed within one week and again four weeks post-concussion. VVD were assessed using the Sport…
+
+</details>
+
 ### [Individual Prognostication of Emergence From Posttraumatic Amnesia: A Nationwide Cohort Study](https://www.sciencedirect.com/science/article/pii/S0003999326008105?dgcid=rss_sd_all)
+
+*Arch Phys Med Rehabil* · **0.65**
+
+`PTA` `TBI` `prognostication` `cohort`
+
+Nationwide cohort study on individual prognostication of emergence from posttraumatic amnesia; TBI recovery outcome.
+
+### [Traumatic microbleeds are associated with unfavorable outcome out to 1 year after mild traumatic brain injury](https://www.medrxiv.org/content/10.64898/2026.11.15.26367999v1?rss=1)
+
+*medRxiv Neurology* · **0.60** · 2026-11-18
+
+`mTBI` `microbleeds` `prognosis` `TRACK-TBI` `neuroimaging`
+
+Prospective longitudinal TRACK-TBI study enrolled acute TBI patients presenting to emergency departments and determined traumatic microbleeds predicted unfavorable outcome up to one year after mild TBI.
+
+<details><summary>Abstract snippet</summary>
+
+ImportanceTraumatic microbleeds (TMB) are commonly observed in mild TBI (mTBI). However, questions remain regarding their long-term prognostic significance. ObjectiveDetermine whether traumatic microbleeds predict unfavorable outcome after mild traumatic brain injury (mTBI) DesignThe prospective longitudinal observational Transforming Research and Clinical Knowledge in Traumatic Brain Injury (TRACK-TBI) study enrolled acute TBI patients presenting to Emergency Departments (ED) at 18 U.S. Level…
+
+</details>
+
+### [Acute Emotional Symptoms Predict Emotional Functioning up to 6 Months after Pediatric Concussion: An A-CAP Study](https://www.sciencedirect.com/science/article/pii/S0022347626003392?dgcid=rss_sd_all)
+
+*J Pediatrics* · **0.60**
+
+`pediatric concussion` `emotional symptoms` `functional outcome` `A-CAP`
+
+A-CAP study found acute emotional symptoms predicted emotional functioning up to six months after pediatric concussion.
+
+### [Characterizing symptom prominence in persistent postconcussion symptoms using random ensembles of person-specific networks.](https://pubmed.ncbi.nlm.nih.gov/43038088/)
+
+*Neuropsychology (PubMed)* · **0.60** · 2026-11-16
+
+`concussion` `symptom network` `EMA` `postconcussion`
+
+Forty adults with clinician-diagnosed concussion completed baseline neuropsychological assessment and 20 days of ecological momentary assessment, then used random ensembles of person-specific networks to characterize symptom prominence.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVE: This article aimed to evaluate the feasibility of an idiographic, network-based symptom prominence classification approach using short-term ecological momentary assessment (EMA) data in individuals with persistent postconcussion symptoms and to examine its associations with clinical and demographic characteristics. METHOD: Forty adults with clinician-diagnosed concussion completed baseline neuropsychological assessment and 20 days of EMA (21 symptoms, five assessments daily). Random…
+
+</details>
+
+### [Long-term heading exposure in relation to structural MRI markers and neurocognitive function in retired professional soccer players.](https://pubmed.ncbi.nlm.nih.gov/43067430/)
+
+*J Neuroradiol (PubMed)* · **0.60** · 2026-11-21
+
+`heading` `MRI` `neurocognitive` `retired athletes` `TBI`
+
+Study evaluated structural MRI markers and neuropsychological performance in retired professional soccer players with long-term heading exposure.
+
+<details><summary>Abstract snippet</summary>
+
+BACKGROUND AND PURPOSE: Repetitive head impacts from purposeful heading in soccer have raised concerns about long-term neurological effects, but in vivo MRI markers remain underexplored. Most published imaging studies have involved amateur, youth or currently active players. Retired professionals with a full career of heading exposure and no reported concussion have rarely been investigated. Our objective was to evaluate structural brain differences and neuropsychological performance in retired…
+
+</details>
+
+### [Preinjury Employment Advantage and Early Return-to-Work: Identifying Influential Time Points for Employment Post-traumatic Brain Injury.](https://pubmed.ncbi.nlm.nih.gov/43035905/)
+
+*J Head Trauma Rehabil (PubMed)* · **0.55** · 2026-11-16
+
+`TBI` `return to work` `employment` `longitudinal` `functional status`
+
+Secondary analysis of longitudinal TBI Model Systems National Database data examined preinjury employment advantage and early return-to-work at one, two, five, and ten years postinjury.
+
+<details><summary>Abstract snippet</summary>
+
+OBJECTIVE: Analyze preinjury and postinjury predictor's effect on employment after traumatic brain injury (TBI) at 1, 2, 5, and 10 years postinjury to identify the most influential drivers of employment where vocational rehabilitation interventions are feasible. SETTING: Community. PARTICIPANTS: Workforce-eligible persons enrolled in the TBI Model Systems National Database with data at injury and years 1, 2, 5, and 10 postinjury. DESIGN: Secondary analysis of longitudinal cohort data. MAIN…
+
+</details>
+
+### [Alleviation of Symptom Burden Following Deep Brain Stimulation in Moderate to Severe Brain Injury.](https://pubmed.ncbi.nlm.nih.gov/43036364/)
+
+*Neurotrauma Rep (PubMed)* · **0.55** · 2026-09-28
+
+`TBI` `DBS` `symptom burden` `RPQ` `longitudinal`
+
+Used Rivermead Post-Concussion Symptoms Questionnaire to evaluate longitudinal changes in symptom burden after deep brain stimulation in chronic moderate-to-severe TBI and compared with natural recovery.
+
+<details><summary>Abstract snippet</summary>
+
+Many patients experience high symptom burden for many years following moderate to severe traumatic brain injury (TBI). Here, we use the Rivermead Post-Concussion Symptoms Questionnaire (RPQ), a self-report questionnaire that tracks the severity of chronic symptoms that impact quality of life, to evaluate longitudinal changes following deep brain stimulation (DBS) in participants with chronic, moderate to severe TBI (msTBI) and to compare findings to the natural recovery observed in the…
+
+</details>
+
+### [Do You See Me How I See Myself-and Does It Matter? Parent-Child Agreement on Symptom Ratings after Mild Traumatic Brain Injury and Its Association with Recovery: An A-CAP Study.](https://pubmed.ncbi.nlm.nih.gov/43046759/)
+
+*J Neurotrauma (PubMed)* · **0.55** · 2026-11-18
+
+`mTBI` `parent-child agreement` `symptoms` `recovery`
+
+A-CAP study quantified parent-child agreement on mild TBI symptom inventory and investigated association with recovery.
+
+<details><summary>Abstract snippet</summary>
+
+Current methods for diagnosing and monitoring recovery of pediatric mild traumatic brain injury (mTBI) rely heavily on both self-report and parent-proxy symptom inventories. Yet little is known about parent-child agreement and the clinical relevance of (dis)agreement on symptom inventories commonly used in pediatric mTBI. The current study thus aimed to (1) quantify parent-child agreement on an mTBI symptom inventory; (2) investigate which sociodemographic, clinical, psychosocial, and…
+
+</details>
+
+### [Childhood Maltreatment and Patterns of Lifetime Traumatic Brain Injury: A Latent Profile Analysis.](https://pubmed.ncbi.nlm.nih.gov/43048303/)
+
+*Neurotrauma Rep (PubMed)* · **0.55** · 2026-10-19
+
+`TBI` `maltreatment` `latent profile` `risk`
+
+Latent profile analysis examined whether childhood maltreatment increased risk for TBI and identified distinct profiles of lifetime TBI.
+
+<details><summary>Abstract snippet</summary>
+
+Traumatic brain injury (TBI) is a major public health concern associated with long-term cognitive, behavioral, and emotional consequences. Although prior research has examined links between childhood maltreatment and TBI, findings have been inconsistent, and binary indicators may not capture heterogeneity in injury severity and frequency. The current study has three research questions: (1) Does childhood maltreatment increase risk for TBI? (2) Are there distinct profiles of lifetime TBI…
+
+</details>
+
+### [Association between immediate and early seizures and pre-injury alcohol and marijuana use: A traumatic brain injury model systems national database analysis.](https://pubmed.ncbi.nlm.nih.gov/43054266/)
+
+*Neurotrauma Rep (PubMed)* · **0.55** · 2026-10-30
+
+`TBI` `seizures` `substance use` `TBIMS`
+
+TBIMS National Database analysis of 3,875 participants examined pre-injury alcohol and marijuana use and post-traumatic seizures at immediate, early, and combined time points.
+
+<details><summary>Abstract snippet</summary>
+
+This study examined the role that pre-injury alcohol and marijuana use have on the incidence of post-traumatic seizures, as well as their relationship with their known risk factors. We hypothesized that pre-injury alcohol and marijuana use would independently predict post-traumatic seizures at 3 separate time points, categorized as immediate, early, and both immediate and early seizures. 3,875 participants were identified using the Traumatic Brain Injury Model Systems National Database. The…
+
+</details>
+
+### [Early post-hospital trajectories of health-related quality of life for younger adult patients with traumatic brain injury](https://www.sciencedirect.com/science/article/pii/S0003999326007835?dgcid=rss_sd_all)
 
 *Arch Phys Med Rehabil* · **0.55**
 
-`TBI` `posttraumatic amnesia` `prognostication` `cohort study`
+`TBI` `HRQoL` `functional status` `trajectories`
 
-Nationwide cohort study on prognostication of emergence from posttraumatic amnesia after TBI; pediatric inclusion unclear but relevant to neurotrauma outcomes.
+Early post-hospital trajectories of health-related quality of life were described for younger adult patients with TBI.
 
 ---
 
 ## Neurocritical & hospital care outcomes
 
-### [Cohort profile: study design and baseline characteristics of SARS-CoV-2 positive and negative children and youth from the Canadian paediatric outcome improvement through coordination of research networks (POPCORN) COVID-19 prospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/43015030/)
+### [Long-Term Neurologic Complication and Healthcare Burden in Infants Receiving Extracorporeal Life Support: A Nationwide Population-Based Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/43055590/)
 
-*BMJ Open (PubMed)* · **0.90** · 2026-11-11
+*Pediatr Crit Care Med (PubMed)* · **0.78** · 2026-11-19
 
-`POPCORN` `COVID-19` `pediatric cohort` `longitudinal`
+`ECMO` `infants` `population-based cohort` `neurologic outcomes` `survivorship`
 
-The prospective POPCORN cohort follows Canadian children and youth to examine immediate and long‑term effects of COVID‑19, aligning with pediatric post‑intensive care syndrome research.
+Nationwide population-based cohort of infants under 1 year on extracorporeal life support (2009-2022, South Korea NHIS) evaluating survival, long-term neurologic complications, and healthcare burden. Administrative-data neurologic outcomes rather than objective neuropsychological testing temper the score.
 
 <details><summary>Abstract snippet</summary>
 
-PURPOSE: In March 2022, the Pediatric Outcome imProvement through COordination of Research Networks (POPCORN) consortium was established to enhance the understanding of the immediate and long-term effects of COVID-19 among Canadian children and youth. POPCORN is a nationwide initiative that unites Canadian researchers, research organisations, clinicians and patients to address child and youth health challenges. While POPCORN initially focused on paediatric COVID-19, the platform has since…
+OBJECTIVES: To evaluate survival, neurologic complications, and healthcare burden in infant extracorporeal life support (ECLS) recipients using nationally representative administrative data from a single-payer healthcare system. DESIGN: Retrospective, population-based cohort study. SETTING: South Korea's National Health Insurance Service, covering 97% of the population. PATIENTS: Infants under 1 year who received ECLS between 2009 and 2022. INTERVENTIONS: None. MEASUREMENTS AND MAIN RESULTS: Of…
 
 </details>
 
-### [Association of Abnormal Cerebral Perfusion in Very Preterm Infants With Late-Onset Sepsis and Neurodevelopmental Outcomes at 2 Years of Age: A Prospective Cohort Study Using Arterial Spin Labeling](https://www.sciencedirect.com/science/article/pii/S0887899426002948?dgcid=rss_sd_all)
+### [Delirium prevalence and practices across intensive care units in Singapore: a point prevalence survey.](https://pubmed.ncbi.nlm.nih.gov/43062038/)
 
-*Pediatric Neurology* · **0.73**
+*Singapore Med J (PubMed)* · **0.60** · 2026-11-20
 
-`preterm` `late-onset sepsis` `neurodevelopmental outcome` `arterial spin labeling` `prospective cohort`
+`delirium` `PICU` `ICU` `prevalence`
 
-Prospective cohort linking abnormal cerebral perfusion on arterial spin labeling in very preterm infants with late-onset sepsis to neurodevelopmental outcomes at 2 years, hitting modifiable-risk and follow-up interests directly.
-
-### [COVID-19 Is Not an Independent Risk Factor for Post-Intensive Care Syndrome: A Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/43012546/)
-
-*J Intensive Care Med (PubMed)* · **0.65** · 2026-11-11
-
-`PICS` `risk factors` `retrospective cohort` `cognitive outcomes` `adult ICU`
-
-Retrospective cohort of 92 respiratory-failure ICU patients testing whether COVID-19 independently predicts PICS across physical, cognitive, and mental-health domains; not a pediatric sample, but the PICS risk-factor design maps onto PICS-p.
+Point prevalence survey of delirium in Singapore ICUs assessed ICU delirium prevalence and adherence to management practices.
 
 <details><summary>Abstract snippet</summary>
 
-BackgroundPost-intensive care syndrome (PICS) affects many ICU survivors, leading to persistent physical, cognitive, and mental health issues. The COVID-19 pandemic raised concerns about whether SARS-CoV-2 infection increases PICS risk. This study aimed to evaluate whether COVID-19 is an independent risk factor for PICS and to identify other contributing factors.MethodsThis retrospective cohort included 92 patients treated for respiratory failure in three ICUs at Charité - Universitätsmedizin…
+INTRODUCTION: Delirium is characterised by a disturbance in attention and awareness, alongside an acute change in cognition that develops over a short period and fluctuates in severity. It is associated with critical illness. This study aimed to determine the point prevalence of delirium in Singapore's intensive care units (ICUs) and assess the adherence of local delirium management practices and evidence-based international guidelines. METHODS: A point prevalence survey was conducted on World…
 
 </details>
 
@@ -145,73 +229,101 @@ BackgroundPost-intensive care syndrome (PICS) affects many ICU survivors, leadin
 
 ## Neuropsychological assessment & methods
 
-### [Ecological assessment of executive functions and reasoning in Colombian children: cross-validation and measurement invariance of the Spanish CORE-6/10.](https://pubmed.ncbi.nlm.nih.gov/43015989/)
+### [Advancing neuropsychological and neurodevelopmental outcome measurement in pediatric epilepsy surgery.](https://pubmed.ncbi.nlm.nih.gov/43038918/)
 
-*Child Neuropsychol (PubMed)* · **0.82** · 2026-11-11
+*Epilepsy Res (PubMed)* · **0.90** · 2026-11-14
 
-`executive function` `CORE-6/10` `measurement invariance` `pediatric` `Spanish`
+`epilepsy surgery` `neuropsychological outcomes` `systematic review` `outcome measurement` `pediatric`
 
-Cross-validation and measurement invariance of the Spanish CORE-6/10 informant-report instrument for ecological assessment of five executive domains in Colombian children aged 6-10. Pediatric EF measure with strong psychometric validation and cultural/linguistic equity focus.
+Overview of systematic reviews (2015-2025) on neuropsychological and neurodevelopmental outcome measurement in pediatric epilepsy surgery, highlighting inconsistent assessment and underrepresentation of impaired children.
 
 <details><summary>Abstract snippet</summary>
 
-Ecological assessment of executive function (EF) in children relies heavily on informant-report instruments that rarely include logical-abstract reasoning, while culturally grounded measures developed originally in Spanish for Latin American populations remain scarce. This study examined the psychometric structure, internal cross-validation, and measurement invariance of the CORE-6/10, a Spanish-language informant-report instrument for children aged 6-10 years assessing five executive domains…
+Epilepsy surgery is the most effective treatment for appropriately selected children with drug-resistant epilepsy, however, surgical success continues to be defined primarily by seizure outcomes. Neuropsychological and neurodevelopmental outcomes are inconsistently assessed, and children with substantial developmental or neurological impairment may be systematically underrepresented in postoperative outcome data. We conducted an overview of systematic reviews published from 2015 to 2025 that…
 
 </details>
 
-### [Comparing informant reports and neuropsychological assessments in evaluating executive functioning in childhood cancer survivors.](https://pubmed.ncbi.nlm.nih.gov/43033016/)
+### [The addition of GRIT to the ECLECTIC framework: Strengthening neuropsychological assessment and support for pediatric refugees.](https://pubmed.ncbi.nlm.nih.gov/43066574/)
 
-*J Clin Exp Neuropsychol (PubMed)* · **0.78** · 2026-11-14
+*Clin Neuropsychol (PubMed)* · **0.70** · 2026-11-21
 
-`childhood cancer survivors` `informant report` `executive function` `neuropsychological assessment` `validity`
+`assessment` `ECLECTIC` `refugees` `culture` `pediatric`
 
-Study comparing parent/caregiver- and teacher-rated cognitive function with neuropsychological performance in 133 childhood cancer survivors, focusing on executive functioning. Directly tests validity of informant reports against objective neuropsychological assessment in a pediatric at-risk sample.
+Added GRIT to the ECLECTIC framework to strengthen neuropsychological assessment and support for pediatric refugees, addressing cultural factors.
 
 <details><summary>Abstract snippet</summary>
 
-Childhood cancer survivors (CCSs) are at risk for physical and cognitive late effects, particularly challenges in attention and executive functioning that impact functioning at home and school. Despite the use of informant report measures, their validity has not been fully studied within paediatric oncology populations, particularly teacher reports. This study investigated the relationship between parent/caregiver- and teacher-rated cognitive function and neuropsychological performance in 133…
+IntroductionRefugee families encounter barriers to accessing medical and mental healthcare. They disproportionately experience trauma, head injury, housing instability, and food insecurity. This along with other developmental, neurologic, and genetic factors can impact cognition, behavior, and functioning. Refugee youth may require neuropsychological evaluations to establish appropriate care and educational support in the US. The ECLECTIC framework outlines aspects of culture that can influence…
 
 </details>
 
-### [Practical Guidance for Promoting Language Equity in Pediatric Hospital Medicine Research.](https://pubmed.ncbi.nlm.nih.gov/43035109/)
+### [Assessment of conversational pragmatics (ACP): Validation of a screening tool for pragmatic difficulties in children aged 6-11 with spoken language difficulties.](https://pubmed.ncbi.nlm.nih.gov/43050723/)
 
-*Hosp Pediatr (PubMed)* · **0.70** · 2026-11-16
+*Arch Pediatr (PubMed)* · **0.65** · 2026-11-18
 
-`language equity` `measurement invariance` `pediatric research` `methodology`
+`pragmatics` `validation` `screening tool` `language`
 
-Provides practical guidance for promoting language equity in pediatric hospital medicine research; addresses performance of measures across languages and cultural groups, aligning with interests in measurement equity and methodological rigor.
+Validation study of the Assessment of Conversational Pragmatics (ACP), a screening tool for pragmatic language difficulties in children 6-11 with spoken language disorders; includes psychometric evaluation.
 
 <details><summary>Abstract snippet</summary>
 
-Children whose caregivers use languages other than English (LOE) experience persistent inequities in pediatric health care yet remain systematically underrepresented in research. Inpatient pediatric studies present distinct challenges to achieving language-equitable research, including complex clinical workflows and variable regulatory requirements. Prior literature highlights the importance of including participants who use LOE in pediatric research, but practical methodological guidance…
+INTRODUCTION AND OBJECTIVE: Pragmatics-the ability to use language appropriately in social contexts-is a multidimensional skill involving verbal and non-verbal communication, social cognition, and executive functions. While pragmatic difficulties are recognized across neurodevelopmental disorders (NDDs), their assessment remains challenging due to terminological heterogeneity and a lack of standardized tools. This study aimed to validate the Assessment of Conversational Pragmatics (ACP), a…
 
 </details>
 
-### [6- and 12-month test-retest score reliability and practice effects of the NIH Toolbox Cognition Battery in older Black adults with subjective cognitive decline.](https://pubmed.ncbi.nlm.nih.gov/43023735/)
+### [Verbal fluency tasks in focal epilepsy-Language or executive functioning measures? A factor-analytic study.](https://pubmed.ncbi.nlm.nih.gov/43071459/)
 
-*Clin Neuropsychol (PubMed)* · **0.60** · 2026-11-13
+*Neuropsychology (PubMed)* · **0.65** · 2026-11-23
 
-`NIH Toolbox` `test-retest reliability` `practice effects` `reliable change` `older adults`
+`epilepsy` `verbal fluency` `factor analysis` `presurgical` `executive function`
 
-Test-retest reliability and practice effects of the NIH Toolbox Cognition Battery over 6- and 12-month intervals in 44 older Black adults with subjective cognitive decline. Directly addresses reliable change and practice effects, relevant to assessment methodology, but in an older adult sample.
+Factor-analytic study of semantic, phonemic, and action verbal fluency tasks in focal epilepsy to determine language vs executive loading; presurgical assessment context.
 
 <details><summary>Abstract snippet</summary>
 
-Objective: The NIH Toolbox Cognition Battery (NIHTB-CB) is increasingly used for cognitive assessment. However, its test-retest reliability estimates over clinically meaningful intervals are understudied in older Black adults. This study examined the reliability and practice effects of NIHTB-CB composite and subtest scores over 6- and 12-month intervals in older Black adults with subjective cognitive decline. Methods: Participants were 44 community-dwelling older Black adults with subjective…
+OBJECTIVE: Verbal fluency (VF) tasks, particularly semantic (SF) and phonemic fluency (PF), are commonly used in presurgical assessment in people with focal epilepsy. Action verbal fluency (AF), however, has not yet been systematically investigated in epilepsy. Studies in other neurological populations suggest that SF and PF may be more strongly associated with language than with executive functions, whereas AF may be more closely related to frontal-executive processes. This study examined the…
 
 </details>
 
-### [Beyond short delays: one-week recall and recognition Italian norms for the Rey-Osterrieth Complex Figure Test.](https://pubmed.ncbi.nlm.nih.gov/43016234/)
+### [Paired independent child-parent symptom reporting using the Turkish SSPedi and mini-SSPedi: psychometric evaluation and discordance patterns in pediatric oncology.](https://pubmed.ncbi.nlm.nih.gov/43064827/)
 
-*J Clin Exp Neuropsychol (PubMed)* · **0.58** · 2026-11-11
+*Eur J Pediatr (PubMed)* · **0.65** · 2026-11-20
 
-`ROCFT` `normative data` `memory` `delayed recall` `adults`
+`pediatric oncology` `symptom screening` `child-parent agreement` `validation` `prospective`
 
-Italian normative data for the Rey-Osterrieth Complex Figure Test extended to one-week delayed recall and recognition in 413 cognitively healthy adults. Well-characterized normative sample for memory assessment, but adult-only.
+Prospective psychometric evaluation of paired child self-report and parent proxy-report using Turkish SSPedi/mini-SSPedi in pediatric oncology, characterizing child-parent discordance patterns.
 
 <details><summary>Abstract snippet</summary>
 
-The aim of this study was to establish Italian normative data for the Rey-Osterrieth Complex Figure Test (ROCFT), extending the standard protocol to include a recognition trial and a one-week delayed recall. Additionally, the study evaluated the clinical utility of these extended memory measures for detecting accelerated long-term forgetting (ALF) and for differentiating impairments in encoding, storage, and retrieval processes. A total of 413 cognitively healthy Italian adults completed the…
+UNLABELLED: The Symptom Screening in Pediatrics Tool (SSPedi; ages 8-18) and mini-SSPedi (ages 4-7) are validated pediatric oncology symptom-screening instruments. Turkish versions are available, but paired independent child self-report and parent proxy-report within the same assessment have not been systematically evaluated in Türkiye. This study assessed the psychometric properties of paired SSPedi/mini-SSPedi reporting and characterized child-parent discordance. In this prospective…
+
+</details>
+
+### [Does inhibition or attention predict working memory in children with ADHD? Examining age as a moderator.](https://pubmed.ncbi.nlm.nih.gov/43040981/)
+
+*Child Neuropsychol (PubMed)* · **0.60** · 2026-11-16
+
+`ADHD` `working memory` `attention` `inhibition` `cross-sectional`
+
+Cross-sectional study examining whether attention or inhibition differentially predict working memory components in children with ADHD; age as moderator; no critical illness population.
+
+<details><summary>Abstract snippet</summary>
+
+Working memory difficulties are among the most consistently reported cognitive impairments in children with attention-deficit/hyperactivity disorder (ADHD), yet it remains unclear whether these difficulties are more closely tied to weaknesses in attentional regulation or in response inhibition. This study examined whether attention and inhibition differentially predict the phonological loop, visuospatial sketchpad, and central executive components of working memory in children with…
+
+</details>
+
+### [Preliminary convergent validity and group discrimination of a serious game for assessing attention in children and adolescents with and without clinician-established ADHD.](https://pubmed.ncbi.nlm.nih.gov/43065577/)
+
+*Internet Interv (PubMed)* · **0.60** · 2026-11-13
+
+`ADHD` `serious game` `attention` `validation` `digital assessment`
+
+Cross-sectional study of preliminary convergent validity and group discrimination of a serious game (Attention Robots) for attention assessment in children/adolescents with and without clinician-diagnosed ADHD.
+
+<details><summary>Abstract snippet</summary>
+
+BACKGROUND: Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterized by developmentally inappropriate inattention and/or hyperactivity-impulsivity. Diagnosis requires a comprehensive, multi-informant clinical assessment; performance on a single attention task is neither necessary nor sufficient. This cross-sectional study examined the preliminary convergent validity, reliability, and group discrimination of Attention Robots, a serious game designed to…
 
 </details>
 
@@ -219,48 +331,32 @@ The aim of this study was to establish Italian normative data for the Rey-Osterr
 
 ## Adjacent developmental neuroscience
 
-### [Asymptomatic congenital CMV infection: long-term cognitive outcome and brain imaging findings](https://www.sciencedirect.com/science/article/pii/S1090379826001194?dgcid=rss_sd_all)
+### [The Canadian Pediatric Imaging Platform (C-PIP) Reference Sample: Study Design, Recruitment Strategy, and Phenotyping Protocol](https://www.medrxiv.org/content/10.64898/2026.11.19.26368532v1?rss=1)
 
-*Eur J Paediatric Neurology* · **0.70**
+*medRxiv Neurology* · **0.65** · 2026-11-23
 
-`asymptomatic CMV` `cognitive outcome` `brain imaging` `long-term`
+`pediatric` `multisite cohort` `neuroimaging` `phenotyping` `protocol`
 
-The study reports long‑term cognitive outcomes and brain imaging findings in asymptomatic congenital CMV infection, directly relevant to developmental neurocognition.
-
-### [Cognitive and Psychosocial Functioning of Children Aged 8 to 14 Years Following Perinatal Arterial Ischemic Stroke](https://www.sciencedirect.com/science/article/pii/S088789942600319X?dgcid=rss_sd_all)
-
-*Pediatric Neurology / PubMed* · **0.68** · 2026-10-13
-
-`perinatal stroke` `neuropsychological assessment` `executive function` `MRI correlates` `cross-sectional`
-
-Cross-sectional assessment of IQ, verbal memory, sustained attention, and executive function in children 8-14 after perinatal arterial ischemic stroke, with MRI correlates; multidomain objective neuropsych testing but not a critical-illness sample.
+Protocol for a multisite accelerated longitudinal pediatric cohort (>800 participants) with harmonized multimodal neuroimaging and comprehensive phenotyping; matches interest in well-characterized, multi-site developmental samples and standardized protocols.
 
 <details><summary>Abstract snippet</summary>
 
-BACKGROUND: Neurodevelopmental problems in children with perinatal arterial ischemic stroke (PAIS) might be underestimated due to limited follow-up and selective evaluation of neurodevelopmental domains. This study describes school-age multidomain functioning after PAIS and assesses magnetic resonance imaging (MRI) correlates associated with functioning. METHODS: This observational cross-sectional study assessed intelligence quotient (IQ), verbal memory, sustained attention, executive…
+Distinguishing atypical from typical neurodevelopment requires large, well-characterized paediatric cohorts with harmonized multimodal neuroimaging and comprehensive phenotyping. Here, we describe the protocol for the Canadian Pediatric Imaging Platform (CPIP) Reference Sample, including the design, recruitment strategy, and phenotyping protocol, along with overviews of the imaging and genetics protocols. Using a multisite accelerated longitudinal design, we aim to recruit >800 participants…
 
 </details>
 
-### [Selected neuropsychological measures in pediatric supratentorial arachnoid cysts: associations with clinical symptoms and Galassi type.](https://pubmed.ncbi.nlm.nih.gov/43018754/)
+### [Learning and memory profile in pediatric craniopharyngioma with and without associated sleep disturbance.](https://pubmed.ncbi.nlm.nih.gov/43041145/)
 
-*Childs Nerv Syst (PubMed)* · **0.65** · 2026-11-12
+*Child Neuropsychol (PubMed)* · **0.65** · 2026-11-17
 
-`arachnoid cyst` `neuropsychological assessment` `WISC-V` `NEPSY-II` `pediatric`
+`craniopharyngioma` `learning and memory` `sleep disturbance` `pediatric` `objective testing`
 
-Retrospective cohort of 34 children with supratentorial arachnoid cysts examining associations of cyst features with neuropsychological test scores (WISC-V, NEPSY-II) and within-patient changes before and after surgery. Pediatric structural brain condition with cognitive outcomes, though retrospective and single-site.
+Examines rote verbal learning and memory profiles, including learning approaches and slopes, in children and adolescents with craniopharyngioma with and without sleep disturbance. Objective neuropsychological phenotyping of pediatric acquired brain injury, but not critical illness or measurement validation.
 
 <details><summary>Abstract snippet</summary>
 
-PURPOSE: To evaluate the associations of cyst diameter, clinical symptoms, cyst localization, and Galassi classification with selected neuropsychological test scores in children with supratentorial arachnoid cysts and to examine within-patient changes in these measures before and after surgical treatment. METHODS: This retrospective cohort included 34 children aged 6-16 years. Baseline neuropsychological performance was assessed using WISC-V Block Design and Digit Span and NEPSY-II Visual…
+Children and adolescents with craniopharyngioma are at increased risk for visual field cuts, endocrinopathies, associated sleep disturbances, and cognitive challenges. While general intellectual functioning tends to remain intact within this population, the sellar/suprasellar location of craniopharyngiomas can disrupt important neural pathways essential for learning and memory. This study examines rote verbal learning and memory profiles - including nuances in learning approaches and slopes -…
 
 </details>
-
-### [Multidimensional Relationship between Physical Health and the Brain, Mental Health, and Cognitive Development in the ABCD Cohort: a 10-year review and future directions](https://www.sciencedirect.com/science/article/pii/S1878929326001908?dgcid=rss_sd_all)
-
-*Developmental Cognitive Neuroscience* · **0.65**
-
-`ABCD study` `physical health` `cognitive development` `mental health` `longitudinal review`
-
-10-year review of multidimensional relationships between physical health, brain, mental health, and cognitive development in the ABCD cohort; directly addresses physical health impacts on neurocognition in a large pediatric longitudinal sample.
 
 ---
